@@ -1,0 +1,16 @@
+Tkhlpzyv, Jzaprvlt
+
+Did anyone spot that Su-4-7 is co-ordinates in nm, hence slightly over 8nm away?
+- yes, amc(ish)
+
+Linear Small-Body Accelerator
+anyone spot ERR_AIPROG ?
+anyone spot http://www.lonestarbowhunter.com/ ?
+
+Sandals
+apprentice (who we meet in Su-4-7)
+net-ambient = "present" everywhere there is internet access
+pattern-slices = some kind of virtual object; can take days to build
+perspective-set = would be cluttered by too many pattern-slices
+
+Your image on the diagrams is already too cluttered at this scale.  You will have to simplify it before zooming out.
