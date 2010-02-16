@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,22 +13,15 @@
    height="320"
    id="svg2"
    version="1.1"
-   inkscape:version="0.46"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="itnas018.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:version="0.32"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\My Documents\ITNAS\itnas018.png">
   <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 160 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="480 : 160 : 1"
-       inkscape:persp3d-origin="240 : 106.66667 : 1"
-       id="perspective8" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -35,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="258.52475"
-     inkscape:cy="153.77868"
+     inkscape:zoom="1"
+     inkscape:cx="383.8501"
+     inkscape:cy="153.75377"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,10 +39,10 @@
      inkscape:snap-global="false"
      inkscape:snap-grids="true"
      showguides="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="1002"
-     inkscape:window-x="1680"
-     inkscape:window-y="25"
+     inkscape:window-width="1280"
+     inkscape:window-height="774"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -149,7 +143,7 @@
          sodipodi:end="1.5707963"
          sodipodi:start="0"
          transform="matrix(0.9852216,0,0,1.010101,13.004935,726.75612)"
-         d="M 220.25,35.25 A 25.375,24.75 0 0 1 194.875,60 L 194.875,35.25 z"
+         d="M 220.25,35.25 C 220.25,48.919047 208.88923,60 194.875,60 l 0,-24.75 z"
          sodipodi:ry="24.75"
          sodipodi:rx="25.375"
          sodipodi:cy="35.25"
@@ -161,7 +155,7 @@
          sodipodi:end="1.5707963"
          sodipodi:start="0"
          transform="matrix(-0.9852216,0,0,-1.010101,421.99507,822.96824)"
-         d="M 220.25,35.25 A 25.375,24.75 0 0 1 194.875,60 L 194.875,35.25 z"
+         d="M 220.25,35.25 C 220.25,48.919047 208.88923,60 194.875,60 l 0,-24.75 z"
          sodipodi:ry="24.75"
          sodipodi:rx="25.375"
          sodipodi:cy="35.25"
