@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -28,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="513.2096"
-     inkscape:cy="511.86177"
+     inkscape:cx="371.31278"
+     inkscape:cy="249.67995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1354,11 +1353,6 @@
            id="path7291" />
       </g>
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g3043"
-       id="use2609" />
     <g
        id="g2624"
        transform="translate(106.48351,718.42103)">
@@ -1417,6 +1411,26 @@
          y="525.58484"
          x="747.63086"
          sodipodi:role="line"
-         id="tspan3939">(REMS)</tspan></text>
+         id="tspan3160">(REMI)</tspan></text>
+    <path
+       id="path3765"
+       style="fill:none;stroke:#b15f13;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 49.9504,877.78936 37.00064,902.935 m 3.42592,-22.09666 15.62178,15.99874 -22.09668,-3.42592 6.4749,-12.57282 z" />
+    <path
+       style="fill:none;stroke:#b08299;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 63.61584,880.72144 -6.967644,9.36349 17.136409,5.49495 -10.168781,-14.85846 z"
+       id="path3748"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="79"
+       y="899.36218"
+       id="text3967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="79"
+         y="899.36218"
+         id="tspan3971">crow, squirrel</tspan></text>
   </g>
 </svg>
