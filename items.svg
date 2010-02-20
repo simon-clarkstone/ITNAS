@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="230.80271"
-     inkscape:cy="882.53793"
+     inkscape:cx="184.58697"
+     inkscape:cy="237.84422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -391,7 +391,7 @@
          height="292.92044"
          width="454.92044"
          id="rect10457"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:6.0795455;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          y="329.90231"
@@ -997,8 +997,8 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="89.908203"
-         y="731.57312"
-         id="tspan3750-0-4-4">room (???)</tspan></text>
+         y="761.57312"
+         id="tspan4061">room (comms/network)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -1009,7 +1009,7 @@
          sodipodi:role="line"
          x="83.908203"
          y="777.57312"
-         id="tspan3750-0-4-1">room (???)</tspan></text>
+         id="tspan3750-0-4-1">room (storage)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
