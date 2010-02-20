@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="371.31278"
-     inkscape:cy="249.67995"
+     inkscape:cx="230.80271"
+     inkscape:cy="882.53793"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1432,5 +1432,53 @@
          x="79"
          y="899.36218"
          id="tspan3971">crow, squirrel</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#d8bc00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 205.75001,68.11217 -41.875,-16.24998 -83.750005,0 -41.87501,16.24998 0,32.50001 41.87501,16.25 83.750005,0 41.875,-16.25 0,-32.50001 z"
+       id="path2952"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#ff6c52;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 111.17743,212.21544 0,29.43176 -47.87459,0"
+       id="path2910"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="124.63086"
+       y="224.58484"
+       id="text10878-1"><tspan
+         sodipodi:role="line"
+         x="124.63086"
+         y="224.58484"
+         id="tspan3977">Faraday</tspan><tspan
+         sodipodi:role="line"
+         x="124.63086"
+         y="254.58484"
+         id="tspan3981">cage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="88.630859"
+       y="83.584839"
+       id="text10878-4"><tspan
+         sodipodi:role="line"
+         x="88.630859"
+         y="83.584839"
+         id="tspan4008">&quot;chair&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="88.630859"
+         y="83.584839"
+         id="tspan4012" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="289.63086"
+       y="178.58484"
+       id="text10878-48"><tspan
+         sodipodi:role="line"
+         x="289.63086"
+         y="178.58484"
+         id="tspan4025">bed</tspan></text>
   </g>
 </svg>
