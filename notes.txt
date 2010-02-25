@@ -16,3 +16,5 @@ pattern-slices = some kind of virtual object; can take days to build
 perspective-set = would be cluttered by too many pattern-slices, unless they are "disperceive"d
 
 Your image on the diagrams is already too cluttered at this scale.  You will have to simplify it before zooming out.
+
+You get your fabber and powerpack out of the cupboard.
