@@ -27,5 +27,6 @@ Todo:
 >Grab your ball and run to Timmy. He will throw it! And you can chase it!
 Voices: Fondly regard simulation
 Fix it...
+>Eat apple.
 
 "the war"
