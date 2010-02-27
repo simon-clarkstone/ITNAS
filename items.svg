@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="167.00911"
-     inkscape:cy="340.45394"
+     inkscape:cx="251.10861"
+     inkscape:cy="269.15924"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2293,5 +2293,26 @@
          id="tspan4244"
          x="57"
          y="1543">jar</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#c87137;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 118.04622,1524.8332 c 7.16541,8.3012 7.25374,7.6912 12.13835,16.5879 5.15399,9.3874 12.11601,15.4865 13.76921,17.7457"
+       id="path2859"
+       sodipodi:nodetypes="csc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4300"
+       y="1546"
+       x="147"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="1546"
+         x="147"
+         id="tspan4302"
+         sodipodi:role="line">bat</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#80ff00;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 135.42538,1666.028 c -17.02374,5.4106 -23.61879,4.5404 -40.14134,14.321 -8.5816,5.08 -13.30934,11.9548 -12.55924,24.4914 0.86768,14.5016 2.85444,21.2287 15.91691,26.6482 10.51765,4.3636 26.1023,-1.6923 33.72914,3.4169 11.14204,7.464 29.80404,3.0897 42.98191,5.0665"
+       id="path4125-8"
+       sodipodi:nodetypes="csssss" />
   </g>
 </svg>
