@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1890.7318"
-     inkscape:cy="839.27382"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="861.40053"
+     inkscape:cy="544.52985"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1596,7 +1596,11 @@
          sodipodi:role="line"
          x="804.95367"
          y="171.25577"
-         id="tspan4213-1">???</tspan></text>
+         id="tspan3226">fabber</tspan><tspan
+         sodipodi:role="line"
+         x="804.95367"
+         y="201.25577"
+         id="tspan3232">cartriges</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -1607,7 +1611,7 @@
          sodipodi:role="line"
          x="803.01263"
          y="116.11362"
-         id="tspan4213-2">???</tspan></text>
+         id="tspan3220">tool for frame</tspan></text>
     <g
        transform="matrix(0.6702771,1.8843377,-1.8843372,0.67027694,903.60755,-578.03851)"
        id="g2900-1"
@@ -2028,5 +2032,36 @@
        d="m 1990.985,42.066735 -879.4476,0.002 0,294.86351 -147.4318,0 0,292.9375 902.5465,0 0,-292.50754 124.3479,0 -0.015,-295.295445 z"
        id="path2910-23"
        sodipodi:nodetypes="ccccccccc" />
+    <g
+       transform="translate(525.57298,-40.659791)"
+       id="g3836">
+      <rect
+         ry="0"
+         y="61.769001"
+         x="241.92599"
+         height="16.506001"
+         width="33.001999"
+         id="rect2956"
+         style="color:#000000;fill:none;stroke:#4a3fff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:none;stroke:#4a3fff;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3834"
+         width="25.002001"
+         height="8.5060005"
+         x="245.92599"
+         y="65.768997"
+         ry="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="806.21484"
+       y="33.067287"
+       id="text4209-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="806.21484"
+         y="33.067287"
+         id="tspan4213-0">rack frame</tspan></text>
   </g>
 </svg>
