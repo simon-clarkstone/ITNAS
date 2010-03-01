@@ -18,13 +18,13 @@ perspective-set = would be cluttered by too many pattern-slices, unless they are
 --
 
 Timmy (Jones?) -- blue
-Shewston -- protgonist #2
+Shewson -- protgonist #2
 * Some parts of mind act as "voices" due to misconfiguration
 Mr Jones -- old
 
 Todo:
+>Graph of computer progress (y) vs time (x): Have an asymptote at y=1
 Voices: Fondly regard simulation
 Fix it...
->See if you can fly.
 
 "the war"
