@@ -27,7 +27,6 @@ Todo:
 Voices: Fondly regard simulation
 Fix it...
 Make a boat from the plane piece and have a grand nautical adventure.
->Lick duck
 >Make some delicious scrambled eggs instead of wasting them by putting 'em in a boat.
 
 "the war"
