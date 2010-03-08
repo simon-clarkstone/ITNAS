@@ -36,6 +36,6 @@ Dark blue, then ligt blue, then yellow, slowly increasing in complexity(?), then
 Investigate the stellar decahedron. Its pattern has already presented itself in the simulation.
 >Go for the one that looks like a sun.
 >No, start with the ones you are already familiar with. Use those as a basis to better understand the others.
-Tk: Try to eat that tasty-looking semi-circular one.
+>Stop interacting with the spiral, let's try something we know about this time, our pattern recognition wouldn't have so much trouble (?)
 
 "the war"
