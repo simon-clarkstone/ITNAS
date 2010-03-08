@@ -18,7 +18,21 @@
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
-     id="defs10754" />
+     id="defs10754">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4093"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="254.10819"
-     inkscape:cy="827.52147"
+     inkscape:zoom="1"
+     inkscape:cx="197.24757"
+     inkscape:cy="817.49457"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2649,5 +2663,36 @@
        d="m 101.82338,1124.9554 -36.76956,13.435"
        id="path2861"
        sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#001089;stroke-width:10.85019207;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3669"
+       sodipodi:sides="3"
+       sodipodi:cx="40"
+       sodipodi:cy="132"
+       sodipodi:r1="102.95278"
+       sodipodi:r2="42.028103"
+       sodipodi:arg1="1.5732065"
+       sodipodi:arg2="2.6204041"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.8"
+       inkscape:randomized="0"
+       d="M 39.751866,234.95248 C -31.975084,234.7796 39.265814,215.13006 3.5520525,152.92626 -32.161707,90.722469 -85.048589,142.33979 -49.035398,80.308869 c 36.013191,-62.030922 17.409745,9.490275 89.136695,9.66315 71.726943,0.172875 53.468479,-71.437167 89.182233,-9.23337 35.71376,62.203801 -16.92369,10.332144 -52.936879,72.363071 -36.013188,62.03092 35.132159,82.02364 -36.594785,81.85076 z"
+       transform="matrix(0.1843505,0,0,-0.18430658,611.61551,170.22078)" />
+    <path
+       style="fill:none;stroke:#a15959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 12.539845,1411.02 19.5,13.5"
+       id="path4067" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4273-2-4"
+       y="1426.7875"
+       x="40.854153"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan4275-45-8"
+         y="1426.7875"
+         x="40.854153"
+         sodipodi:role="line">VCS arrow colour</tspan></text>
   </g>
 </svg>
