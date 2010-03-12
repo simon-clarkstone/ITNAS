@@ -14,6 +14,8 @@ apprentice (who we meet in Su-4-7)
 net-ambient = "present" everywhere there is internet access
 pattern-slices = some kind of virtual object; can take days to build
 perspective-set = would be cluttered by too many pattern-slices, unless they are "disperceive"d
+BNI = bulk non-contact interface; the things in the helmet interface
+PRI = proximate radio interface
 
 --
 
@@ -42,6 +44,5 @@ Use magnetic field lines to repel streams of charged particles from the star sha
 - P8
 Try to either restart the interface or temporarily deactivate all perception activity. Heck, do both.
 >Oh jeez, this console is just a giant deathtrap for your mind. Log out.
->Try the hexagon
 
 "the war"
