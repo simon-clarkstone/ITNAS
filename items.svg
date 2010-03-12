@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +12,7 @@
    height="2000"
    id="svg10752"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.46"
    sodipodi:docname="items.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -40,16 +39,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="343.23113"
-     inkscape:cy="753.58067"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="185.39734"
+     inkscape:cy="943.83705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="774"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
+     inkscape:window-x="1680"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      inkscape:snap-grids="false"
@@ -2548,7 +2547,7 @@
          sodipodi:role="line"
          x="70.710678"
          y="952.06781"
-         id="tspan4245">???</tspan></text>
+         id="tspan4245">??? (related to MCCs)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4249"
@@ -2559,7 +2558,7 @@
          id="tspan4251"
          y="987.4231"
          x="69.296463"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line">??? (related to MCCs)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4253"
@@ -2570,7 +2569,7 @@
          id="tspan4255"
          y="1038.3348"
          x="69.296471"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line">??? (related to MCCs)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -2581,7 +2580,7 @@
          sodipodi:role="line"
          x="65.053818"
          y="1076.5186"
-         id="tspan4259">???</tspan></text>
+         id="tspan4259">??? (related to MCCs)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4261"
@@ -2592,29 +2591,33 @@
          id="tspan4263"
          y="1118.9449"
          x="73.539101"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line">Main column controls</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="74.953316"
-       y="1167.0283"
+       x="76.953316"
+       y="1152.0283"
        id="text4265"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="74.953316"
-         y="1167.0283"
-         id="tspan4267">view of environment</tspan></text>
+         x="76.953316"
+         y="1152.0283"
+         id="tspan4267">view of environment</tspan><tspan
+         sodipodi:role="line"
+         x="76.953316"
+         y="1182.0283"
+         id="tspan2850">(InterfaceManager)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="72.124893"
-       y="1206.6262"
+       x="60.124893"
+       y="1211.6262"
        id="text4269"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="72.124893"
-         y="1206.6262"
-         id="tspan4271">???</tspan></text>
+         x="60.124893"
+         y="1211.6262"
+         id="tspan4271">??? (related to MCCs)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4273"
@@ -2644,10 +2647,10 @@
        x="63.481567"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
-         id="tspan4275-48"
          y="1346.8844"
          x="63.481567"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line"
+         id="tspan2855">Door/Power/Misc building controls</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4273-2"
@@ -2826,5 +2829,10 @@
          x="321.02646"
          y="1244.1029"
          id="tspan3321">documentation</tspan></text>
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 280.3917,1234.6949 L 308.3583,1255.5551"
+       id="path2890"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
