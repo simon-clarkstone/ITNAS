@@ -1,5 +1,6 @@
 Tkhlpzyv -- init
 Jzaprvlt -- apprentice
+  enthusiastic, yet arrogant?
 Vcypcsua -- a friend
 
 Did anyone spot that Su-4-7 is co-ordinates in nm, hence slightly over 8nm away?
@@ -24,6 +25,12 @@ Shewson -- protgonist #2
 * Some parts of mind act as "voices" due to misconfiguration
 Mr Jones -- old
 
+"the war"
+
+--
+
+Su-x8-5
+
 Todo:
 >Graph of computer progress (y) vs time (x): Have an asymptote at y=1
 Voices: Fondly regard simulation
@@ -43,5 +50,3 @@ Use magnetic field lines to repel streams of charged particles from the star sha
 >See what happens if you move some of the icons into each other.
 - P8
 Try to either restart the interface or temporarily deactivate all perception activity. Heck, do both.
-
-"the war"
