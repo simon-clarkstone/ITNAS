@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="320"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="itnas095.svg"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:export-filename="itnas095.png">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="345.3418"
+     inkscape:cy="119.97804"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="774"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       type="xygrid"
+       id="grid2816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+    <g
+       id="g3061"
+       transform="matrix(1.0467249,0,0,0.98014799,-134.35873,-244.06972)">
+      <g
+         transform="matrix(0,1,-1,0,1184.6277,249.44834)"
+         id="g2965-4">
+        <path
+           sodipodi:nodetypes="cccc"
+           id="rect10452-0-5"
+           d="m 133.39254,813.06126 c 0,0 0.0632,27.65906 0.0632,27.65906 l 12.07545,-14.44412 -12.13868,-13.21494 z"
+           style="fill:none;stroke:#0000ff;stroke-width:3.94909787;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:3.94909787;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 151.22823,812.17189 c 6.89212,7.09944 8.9135,16.0226 -0.26296,29.13855"
+           id="rect10452-1-7-5"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:3.94909787;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 168.17181,812.47108 c -7.29825,9.26679 -7.43338,20.14595 -0.26297,29.13854"
+           id="rect10452-1-4-4-1"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 179.31071,813.72794 13.84374,-0.52265 c -7.48858,10.55148 -6.72932,17.42179 -1.40548,27.37095 l -12.51201,-0.45482 c -6.31967,-9.77929 -6.1614,-17.42893 0.0737,-26.39348 z"
+           style="fill:none;stroke:#0000ff;stroke-width:3.94909787;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect10452-1-8-0-7" />
+      </g>
+      <rect
+         y="376.54489"
+         x="338.70416"
+         height="71.417786"
+         width="38.183765"
+         id="rect2850"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1.97454889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
