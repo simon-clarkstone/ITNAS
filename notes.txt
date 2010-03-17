@@ -50,3 +50,5 @@ Use magnetic field lines to repel streams of charged particles from the star sha
 >See what happens if you move some of the icons into each other.
 - P8
 Try to either restart the interface or temporarily deactivate all perception activity. Heck, do both.
+-P9
+>Proceed to Su-4-7. If you feel like going over the basics of how that is accomplished, that would be nice too.
