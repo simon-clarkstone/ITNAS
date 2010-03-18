@@ -39,14 +39,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="655.31789"
-     inkscape:cy="1714.2221"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="677.41968"
+     inkscape:cy="2253.6147"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1002"
+     inkscape:window-width="1674"
+     inkscape:window-height="999"
      inkscape:window-x="1680"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -939,7 +939,7 @@
          sodipodi:nodetypes="cc"
          id="path5149-1"
          d="m 340,310 30,0"
-         style="fill:none;stroke:#b63266;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         style="fill:none;stroke:#b63266;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     </g>
     <text
        xml:space="preserve"
@@ -3262,5 +3262,30 @@
          x="738.875"
          sodipodi:role="line"
          id="tspan7168">task-related intel</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4462"
+       y="1053.5184"
+       x="572.36584"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan4464"
+         y="1053.5184"
+         x="572.36584"
+         sodipodi:role="line">room (fabber cartridges)</tspan></text>
+    <g
+       id="g3908"
+       transform="matrix(1.5,0,0,1.5,516.93561,869.87184)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path3906"
+         d="M 22.128944,126.18057 L 32.128944,126.18057 L 32.128944,106.18057 L 32.128944,106.18057 C 26.588944,106.18057 22.128944,110.64057 22.128944,116.18057 L 22.128944,126.18057 z"
+         style="fill:none;stroke:#dede01;stroke-width:1.33333349;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path4478"
+         d="M 12.129,126.18057 L 22.129001,126.18057 L 22.129001,106.18057 C 16.589,106.18057 12.129,110.64057 12.129,116.18057 L 12.129,126.18057 z"
+         style="fill:none;stroke:#dede01;stroke-width:1.33333349;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
