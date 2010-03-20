@@ -1,6 +1,7 @@
 Tkhlpzyv -- init
 Jzaprvlt -- apprentice
   enthusiastic, yet arrogant?
+  economic reform e.g. Iiorxhjb's stuff.
 Vcypcsua -- a friend
 
 Did anyone spot that Su-4-7 is co-ordinates in nm, hence slightly over 8nm away?
@@ -52,3 +53,7 @@ Use magnetic field lines to repel streams of charged particles from the star sha
 Try to either restart the interface or temporarily deactivate all perception activity. Heck, do both.
 -P9
 >Proceed to Su-4-7. If you feel like going over the basics of how that is accomplished, that would be nice too.
+-P10
+>Chat with the other travelers around you
+>Is this something that happens all the time, an unfortunate coincidence, or astronomically unlikely? 
+>Kill time by calculating the odds that three stabilizers would be unusable at the same time based on maintenance schedules and average stabilizer failure frequency. Assume no outside intervention.
