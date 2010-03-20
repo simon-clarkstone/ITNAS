@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="446.48473"
-     inkscape:cy="1353.3014"
+     inkscape:cx="555.93692"
+     inkscape:cy="1182.9357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3337,5 +3337,21 @@
          x="405.75018"
          sodipodi:role="line"
          id="tspan4248">Jzaprvlt</tspan></text>
+    <path
+       id="path4154"
+       style="color:#000000;fill:none;stroke:#7137c8;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 563,1085 0,5 -15,5 -15,-5 0,-5 30,-10 0,-5 -15,-5 -15,5 0,5 30,10 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="566.70898"
+       y="1084.6311"
+       id="text4187"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="566.70898"
+         y="1084.6311"
+         id="tspan4189">article (economic)</tspan></text>
   </g>
 </svg>
