@@ -1,8 +1,11 @@
 Tkhlpzyv -- init
+  stopped growing at age 8
 Jzaprvlt -- apprentice
   enthusiastic, yet arrogant?
   economic reform e.g. Iiorxhjb's stuff.
+  Age 5
 Vcypcsua -- a friend
+Cduunyzt -- random passenger
 
 Did anyone spot that Su-4-7 is co-ordinates in nm, hence slightly over 8nm away?
 - yes, amc(ish)
@@ -54,6 +57,3 @@ Try to either restart the interface or temporarily deactivate all perception act
 -P9
 >Proceed to Su-4-7. If you feel like going over the basics of how that is accomplished, that would be nice too.
 -P10
->Chat with the other travelers around you
->Is this something that happens all the time, an unfortunate coincidence, or astronomically unlikely? 
->Kill time by calculating the odds that three stabilizers would be unusable at the same time based on maintenance schedules and average stabilizer failure frequency. Assume no outside intervention.
