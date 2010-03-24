@@ -61,3 +61,5 @@ Try to either restart the interface or temporarily deactivate all perception act
 >Proceed to Su-4-7. If you feel like going over the basics of how that is accomplished, that would be nice too.
 >While you're waiting, take inventory of your current capabilities.
 -P10
+> Bring them back to the computer room and see if things have changed with the computer now that you've seen them I guess?
+>Turn some valves.
