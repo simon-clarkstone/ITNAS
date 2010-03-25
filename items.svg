@@ -3769,5 +3769,20 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 589.72706,481.48819 614.82935,466.9925"
        id="path3844" />
+    <path
+       style="fill:none;stroke:#e2f487;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.00000007, 4.00000003;stroke-dashoffset:0"
+       d="m 531.0262,1105.5099 34.83451,0"
+       id="path5844" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5427"
+       y="1112.2083"
+       x="568.12323"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan5429"
+         y="1112.2083"
+         x="568.12323"
+         sodipodi:role="line">glass</tspan></text>
   </g>
 </svg>
