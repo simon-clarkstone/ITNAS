@@ -63,7 +63,6 @@ Try to either restart the interface or temporarily deactivate all perception act
 >While you're waiting, take inventory of your current capabilities.
 -P10
 > Bring them back to the computer room and see if things have changed with the computer now that you've seen them I guess?
-I thought that meant we had to plug it into ok yeah lets find a plug
 -P11
 ...okay... now what?
 Access the data-cable by plugging in your helmet into the computer and hope that those things are connected.
