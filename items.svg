@@ -3815,5 +3815,26 @@
        sodipodi:ry="2.25"
        d="m 69,48.75 a 2.25,2.25 0 1 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z"
        transform="translate(1091.1598,6.8094308)" />
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 257.5,450.5 10,5 10,-5 -5,10 5,10 -10,-5 -10,5 5,-10 -5,-10 z"
+       id="path3652-1"
+       inkscape:tile-cx="25"
+       inkscape:tile-cy="180"
+       inkscape:tile-w="20"
+       inkscape:tile-h="20"
+       inkscape:tile-x0="15"
+       inkscape:tile-y0="170" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="285.25391"
+       y="468.88736"
+       id="text3665"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="285.25391"
+         y="468.88736"
+         id="tspan3669">valve</tspan></text>
   </g>
 </svg>
