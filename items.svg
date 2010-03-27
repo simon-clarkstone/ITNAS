@@ -3805,5 +3805,15 @@
          x="666.41107"
          y="1112.2083"
          id="tspan6291">data socket</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#4a3fff;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path6223-7"
+       sodipodi:cx="66.75"
+       sodipodi:cy="48.75"
+       sodipodi:rx="2.25"
+       sodipodi:ry="2.25"
+       d="m 69,48.75 a 2.25,2.25 0 1 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z"
+       transform="translate(1091.1598,6.8094308)" />
   </g>
 </svg>
