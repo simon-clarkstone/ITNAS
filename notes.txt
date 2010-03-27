@@ -24,6 +24,7 @@ pattern-slices = some kind of virtual object; can take days to build
 perspective-set = would be cluttered by too many pattern-slices, unless they are "disperceive"d
 BNI = bulk non-contact interface; the things in the helmet interface
 PRI = proximate radio interface
+Original helmet cable has massive plugs that "extend" the standard data cable plug, which is why a normal data cable *can* connect to helmet.
 
 --
 
@@ -63,3 +64,5 @@ Try to either restart the interface or temporarily deactivate all perception act
 -P10
 > Bring them back to the computer room and see if things have changed with the computer now that you've seen them I guess?
 >Turn some valves.
+I thought that meant we had to plug it into ok yeah lets find a plug
+-P11
