@@ -66,3 +66,8 @@ Try to either restart the interface or temporarily deactivate all perception act
 -P11
 ...okay... now what?
 Access the data-cable by plugging in your helmet into the computer and hope that those things are connected.
+
+---
+
+plug thing tool in cupboard
+another LDC? (but we wouldn't need it by then)
