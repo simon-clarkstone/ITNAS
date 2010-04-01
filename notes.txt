@@ -38,6 +38,9 @@ Mr Jones -- old
 --
 
 Su-x8-5
+Jz was already going to arrive "much earlier" than Tk.
+
+---
 
 Todo:
 >Graph of computer progress (y) vs time (x): Have an asymptote at y=1
@@ -68,6 +71,65 @@ Try to either restart the interface or temporarily deactivate all perception act
 Access the data-cable by plugging in your helmet into the computer and hope that those things are connected.
 
 ---
+---
 
-plug thing tool in cupboard
-another LDC? (but we wouldn't need it by then)
+You check the status of the stabilisers over in Su-0-0.
+The backup one that suddenly went offline came back online after only a few minutes,
+but it cannot be trusted now until the cause of its failure can be ascertained.
+An armed team is also going to the one the
+
+The team that performing routine maintainance on one of the stabilisers are postponing their work and are putting it immediately back into working order.
+They should have it ready in half an hour or so, whereupon upward-bound traffic can resume.
+
+
+---
+
+You remove yourself from the list of potentially-missing persons;
+As you expected, no-one has known where you were since you lost consciousness that first time.
+
+You also begin assembling the records of what has happened to you since you set off for the spaceport.
+
+
+
+Your location currently has a posession request associated with it, which you accept.
+Someone connects to you.
+> 
+
+You acquire some updates for your map to find out what this place is.
+
+You check to see where Jzaprvlt is.  Jz is at the spaceport in Su-x8-5 and planning to ascend, despite you having gone missing.
+
+---
+
+Tk: Hello.
+Jz: What happened to you?  I removed you from the prerequisites for my journey.
+(this conversation has forked)
+
+
+Tk check's Jz's location.
+Tk: Where are you going?
+Jz: To Su-4-7.
+Tk: What are you going to do there without me?
+Jz: I'll examine subject LN-4-7-22.
+Tk: That is not what we originally planned.
+Jz: I had to change the plans when you disappeared.
+Tk: Why not just wait for me on the other side?
+Jz: I don't want to waste time.  Instead of waiting for you I can begin examining the situation closer.
+Tk: But you will be doing it alone.
+Jz: I can manage that.
+Tk: You won't be able to get much done on your own.  Not if you're doing it properly
+Jz: I don't need 
+
+
+
+Tk: I'm not sure.  I probably got EMPed by something.
+Jz: You don't know any more than that?
+Tk: Not much.  I am writing it up currently.
+Jz examines what Tk has written already.
+Jz: You didn't see anything that could have caused it?
+Tk: Not that I recall.
+Jz: And there was no warning before it happened?
+Tk: Wait until I finish the write-up.  These questions will all be answered there.
+Jz sends Tk information about Tk's location.
+Tk: I was about to look that up
+Jz: 
