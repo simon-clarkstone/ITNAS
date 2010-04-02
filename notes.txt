@@ -69,6 +69,7 @@ Try to either restart the interface or temporarily deactivate all perception act
 -P11
 ...okay... now what?
 Access the data-cable by plugging in your helmet into the computer and hope that those things are connected.
+>I think the first order of business is to ascertain exactly where we are and how to get somewhere else.
 
 ---
 ---
@@ -89,61 +90,6 @@ As you expected, no-one has known where you were since you lost consciousness th
 
 You also begin assembling the records of what has happened to you since you set off for the spaceport.
 
-
-
 Your location currently has a posession request associated with it, which you accept.
 Someone connects to you.
 > 
-
-You acquire some updates for your map to find out what this place is.
-
-You check to see where Jzaprvlt is.  Jz is at the spaceport in Su-x8-5 and planning to ascend, despite you having gone missing.
-
----
-
-Tk: Hello.
-Jz: What happened to you?  I removed you from the prerequisites for my journey.
-(this conversation has forked)
-
-
-Tk checks Jz's location.
-Tk: Where are you going?
-Jz: To Su-4-7.
-Tk: What are you going to do there without me?
-Jz: I'll examine subject LN-4-7-22.
-Tk: That is not what we originally planned.
-Jz: I had to change the plans when you disappeared.
-Tk: Why not just wait for me on the other side?
-Jz: I don't want to waste time.  Instead of waiting for you I can begin examining the situation closer.
-Tk: You won't be able to get much done on your own.  Not if you're doing it properly.
-Jz: I have been looking at the survey procedures we use.
-Jz: There is a load of bits we don't need in this case.
-Tk: I don't think there are any bits you can really cut out.
-Tk: It's all there for a good reason.
-Jz: I'll check with you before I change any of it then.
-Tk: Don't spam with requests either; I'll need to think for a while about any change.
-Tk: I'll be able to discuss this properly once we are in cephalo-tactile range again.
-
-Tk: I'm not sure.  I probably got EMPed by something.
-Jz: You don't know any more than that?
-Tk: Not much.  I am writing it up currently.
-Jz examines what Tk has written already.
-Jz: You didn't see anything that could have caused it?
-Tk: Not that I recall.
-Jz: And there was no warning before it happened?
-Tk: Wait until I finish the write-up.  These questions will all be answered there.
-Jz sends Tk information about Tk's location.
-Tk: I was about to look that up.
-Jz: You are in the building of the ascent-structure stabiliser that suddenly failed.
-Tk: It wasn't labeled on my map.
-Jz: Do you know what caused it to fail?
-Tk: I told you in the other thread: I am still writing it up.
-Tk: Briefly, it was me cutting the power.
-Jz: !
-Jz: Why?
-Tk: I had got into a bad situation and it was the only way out I could think of.
-Tk: I don't think I ought to tell you much more.
-Jz: I'm going to watch your brain carefully when we meet up.
-Jz: You might have suffered more damage than you think.
-
-You decide that you need to actually meet up with Jzaprvlt.
