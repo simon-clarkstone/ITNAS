@@ -70,25 +70,14 @@ Try to either restart the interface or temporarily deactivate all perception act
 ...okay... now what?
 Access the data-cable by plugging in your helmet into the computer and hope that those things are connected.
 >I think the first order of business is to ascertain exactly where we are and how to get somewhere else.
-
+>Both: Dance, but in a non-cliche manner.
 ---
 ---
 
-You check the status of the stabilisers over in Su-0-0.
-The backup one that suddenly went offline came back online after only a few minutes,
-but it cannot be trusted now until the cause of its failure can be ascertained.
 An armed team is also going to the one the
-
-The team that performing routine maintainance on one of the stabilisers are postponing their work and are putting it immediately back into working order.
-They should have it ready in half an hour or so, whereupon upward-bound traffic can resume.
-
-
----
 
 You remove yourself from the list of potentially-missing persons;
 As you expected, no-one has known where you were since you lost consciousness that first time.
-
-You also begin assembling the records of what has happened to you since you set off for the spaceport.
 
 Your location currently has a posession request associated with it, which you accept.
 Someone connects to you.
