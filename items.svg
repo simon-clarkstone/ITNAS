@@ -3486,11 +3486,11 @@
          id="tspan3514">Unnamed</tspan></text>
     <path
        style="fill:none;stroke:#ff965d;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1933.9289,370.60622 0,98.78756"
+       d="m 1950.9289,578.60622 0,98.78756"
        id="path4227-2" />
     <g
        id="g4105-1-7"
-       transform="matrix(1,0,0,1.1612855,408.46875,-253.78188)">
+       transform="matrix(1,0,0,1.1612855,425.46875,-45.78188)">
       <rect
          y="537.48718"
          x="1513"
@@ -3867,5 +3867,71 @@
        id="path2933"
        d="m 1697.7263,504.13145 -87.4773,94.3914"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g5637"
+       transform="matrix(2,0,0,2,-558,-1140.8952)"
+       style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5557"
+         d="m 544,1135.5 20,0 -10,20 -10,-20 z"
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5559"
+         d="m 549,1135.5 10,0 -5,10 -5,-10 z"
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g5632"
+       transform="matrix(2,0,0,2,-505.6741,-1190.8952)"
+       style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+      <path
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 544,1160.5 20,0 -10,20 -10,-20 z"
+         id="path5582"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path5586"
+         d="m 554,1160.5 0,20"
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path5588"
+         d="m 561,1166.5 -14,0"
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="622.12323"
+       y="1153.2083"
+       id="text5641"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="622.12323"
+         y="1153.2083"
+         id="tspan5645">stairs</tspan></text>
+    <rect
+       style="color:#000000;fill:none;stroke:#b63266;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5747"
+       width="100"
+       height="180"
+       x="1876.6531"
+       y="347.36221" />
+    <g
+       id="g5637-6"
+       transform="matrix(2,0,0,2,818.65299,-1853.6378)"
+       style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5557-5"
+         d="m 544,1135.5 20,0 -10,20 -10,-20 z"
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path5559-0"
+         d="m 549,1135.5 10,0 -5,10 -5,-10 z"
+         style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
