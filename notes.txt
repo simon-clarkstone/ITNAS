@@ -70,9 +70,8 @@ Try to either restart the interface or temporarily deactivate all perception act
 ...okay... now what?
 Access the data-cable by plugging in your helmet into the computer and hope that those things are connected.
 >I think the first order of business is to ascertain exactly where we are and how to get somewhere else.
->Both: Dance, but in a non-cliche manner.
->Go back outside. Where did those up and down chutes lead again?
-> Jz: Check on the current situation.
+>Start walking, or maybe flying, back to the spaceport.
+What about that chute inside of the building, in the first room?
 
 ---
 ---
