@@ -3620,7 +3620,7 @@
          id="tspan4561"
          y="386.11172"
          x="214.92191"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line">cooling system</tspan></text>
     <g
        transform="translate(134.40769,245.8798)"
        id="g4650"
@@ -3946,5 +3946,48 @@
        sodipodi:nodetypes="ccccc"
        inkscape:transform-center-x="-117.48442"
        inkscape:transform-center-y="-15.7061" />
+    <path
+       transform="translate(690.04962,233.14831)"
+       sodipodi:type="star"
+       style="color:#000000;fill:none;stroke:#b15f13;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2852"
+       sodipodi:sides="8"
+       sodipodi:cx="35"
+       sodipodi:cy="120"
+       sodipodi:r1="13.928388"
+       sodipodi:r2="13.928388"
+       sodipodi:arg1="0.36717383"
+       sodipodi:arg2="-0.36717383"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.5"
+       inkscape:randomized="0"
+       d="m 47.999999,125 c 3.444603,3.62418 3.444603,-13.62418 0,-10 -6.609697,6.95429 -7.099482,8.13673 -7.343145,17.72792 -0.126984,4.99839 12.069454,-7.19805 7.071067,-7.07107 C 38.136734,125.90052 36.95429,126.3903 30,133 c -3.624184,3.4446 13.624184,3.4446 10,0 -6.95429,-6.6097 -8.136734,-7.09948 -17.727921,-7.34315 -4.998387,-0.12698 7.198051,12.06946 7.071067,7.07107 C 29.099483,123.13673 28.609698,121.95429 22.000001,115 c -3.444603,-3.62418 -3.444603,13.62418 0,10 6.609697,-6.95429 7.099482,-8.13673 7.343145,-17.72792 0.126984,-4.99839 -12.069454,7.19805 -7.071067,7.07107 C 31.863266,114.09948 33.04571,113.6097 40,107 c 3.624184,-3.4446 -13.624184,-3.4446 -10,0 6.95429,6.6097 8.136734,7.09948 17.727921,7.34315 4.998387,0.12698 -7.198051,-12.06946 -7.071067,-7.07107 0.243663,9.59119 0.733448,10.77363 7.343145,17.72792 z" />
+    <path
+       id="rect5133"
+       style="color:#000000;fill:none;stroke:#b15f13;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 856,1205 0,-25 -350,0 0,-155 370,0 0,155 -15,0 0,25"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="566"
+       y="1201"
+       id="text4409"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4411"
+         x="566"
+         y="1201">message-indicating bubble</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="744.58344"
+       y="352.44119"
+       id="text4417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4419"
+         x="744.58344"
+         y="352.44119">status of stabilisers</tspan></text>
   </g>
 </svg>
