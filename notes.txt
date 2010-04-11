@@ -81,6 +81,7 @@ Ascend.
 Ah, crap. I hope we didn't break anything important.
 Jz: decide it would be faster to just fly there yourself.
 Anything left to do but just wait?
+> Fast forward.
 
 ---
 ---
@@ -101,3 +102,6 @@ Tk goes to medical place?
 
 ---
 ---
+[i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
+
+You receive notice that Tkhlpzyv has just now arrived at the spaceport in Su-0-0, and caused some confusion by being unable to listen or speak to anyone, especially during landing.  Tk has had new comms
