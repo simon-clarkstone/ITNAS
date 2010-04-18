@@ -82,11 +82,15 @@ Ah, crap. I hope we didn't break anything important.
 Jz: decide it would be faster to just fly there yourself.
 Anything left to do but just wait?
 > Fast forward.
+-P13:
 > Reflect on said childhood, and how it relates to this "unusual style."
 Tk: Locate your wayward apprentice before he does something stupid.
-Tk: Restore your EMP-damaged capabilities as soon as possible. Then make sure your apprentice isn't doing anything foolish and impetuous.
+Then make sure your apprentice isn't doing anything foolish and impetuous.
 ((Also, how exactly does each symbol translate into each Latin character? 3 does not divide into 7 or 8 (the number of letters of each name, as far as I can see), and the 4 or 5 names that we have seen seem to be too much of a coïncidence that they manage to use ALL symbols that needs three letters to translate.. :befuddled: ))
 >Medical facilities: Fail to properly repair Tk's brain.
+>Wait for the other guy maybe?
+Jz: See if Tk has repaired the systems that had been EMP'd. If not, he is therefore incapacitated, and you must carry on in his stead.
+Jz: Inform the dockmaster of your intention to depart. Once you have permission, detach locking clamps and power engines to maximum.
 
 ---
 ---
