@@ -93,6 +93,8 @@ Then make sure your apprentice isn't doing anything foolish and impetuous.
 >Medical facilities: Fail to properly repair Tk's brain.
 >Wait for the other guy maybe?
 Jz: See if Tk has repaired the systems that had been EMP'd. If not, he is therefore incapacitated, and you must carry on in his stead.
+-P14
+>Can we get another time lapse? Maybe we can fast-forward to when something interesting happens this time.
 
 ---
 ---
@@ -114,11 +116,14 @@ threads:
 Tk goes to medical place?
   they think Tk has impaired judgement
 Jz goes "over" and down
+  You head down and along to the jump-point.
+  (jump)
+  down to planet
+  view of landscape
 Jz gets over-confident
 
 ---
 ---
-You head down and along to the jump-point.
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
 
