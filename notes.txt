@@ -85,6 +85,8 @@ Anything left to do but just wait?
 > Reflect on said childhood, and how it relates to this "unusual style."
 Tk: Locate your wayward apprentice before he does something stupid.
 Tk: Restore your EMP-damaged capabilities as soon as possible. Then make sure your apprentice isn't doing anything foolish and impetuous.
+((Also, how exactly does each symbol translate into each Latin character? 3 does not divide into 7 or 8 (the number of letters of each name, as far as I can see), and the 4 or 5 names that we have seen seem to be too much of a coïncidence that they manage to use ALL symbols that needs three letters to translate.. :befuddled: ))
+>Medical facilities: Fail to properly repair Tk's brain.
 
 ---
 ---
@@ -101,8 +103,12 @@ Someone connects to you.
 > 
 
 Tk arrives about 1 hour after "maintaining" stabiliser will be ready.
+
+threads:
 Tk goes to medical place?
   they think Tk has impaired judgement
+Jz goes "over" and down
+Jz gets over-confident
 
 ---
 ---
