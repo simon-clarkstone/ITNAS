@@ -42,6 +42,9 @@ Mr Jones -- old
 
 Su-x8-5
 Jz was already going to arrive "much earlier" than Tk.
+Jz will proceed without Tk:
+http://www.mspaintadventures.com/phpBB3/viewtopic.php?p=676690#p676690
+http://www.mspaintadventures.com/phpBB3/viewtopic.php?p=702718#p702718
 
 ---
 
@@ -90,7 +93,6 @@ Then make sure your apprentice isn't doing anything foolish and impetuous.
 >Medical facilities: Fail to properly repair Tk's brain.
 >Wait for the other guy maybe?
 Jz: See if Tk has repaired the systems that had been EMP'd. If not, he is therefore incapacitated, and you must carry on in his stead.
-Jz: Inform the dockmaster of your intention to depart. Once you have permission, detach locking clamps and power engines to maximum.
 
 ---
 ---
@@ -116,6 +118,8 @@ Jz gets over-confident
 
 ---
 ---
+You head down and along to the jump-point.
+
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
 
 You receive notice that Tkhlpzyv has just now arrived at the spaceport in Su-0-0, and caused some confusion by being unable to listen or speak to anyone, especially during landing.  Tk has had new comms
