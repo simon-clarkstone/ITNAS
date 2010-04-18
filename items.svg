@@ -4209,5 +4209,55 @@
        style="color:#000000;fill:none;stroke:#808080;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m -320,1120 -100,350 -50,50 -100,350 100,-50 100,0 50,50 50,-50 100,0 100,50 -100,-350 -50,-50 -100,-350 z"
        sodipodi:nodetypes="ccccccccccccc" />
+    <g
+       id="g4662">
+      <path
+         transform="matrix(0,2,-2,0,1780,1200)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4545"
+         sodipodi:cx="5"
+         sodipodi:cy="625"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         d="m 5.0000001,620 a 5,5 0 0 1 10e-8,10"
+         sodipodi:start="4.712389"
+         sodipodi:end="7.8539816"
+         sodipodi:open="true" />
+      <path
+         d="m 10,625 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="625"
+         sodipodi:cx="5"
+         id="path4547"
+         style="color:#000000;fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc"
+         transform="matrix(0,2,-2,0,1780,1220)" />
+      <path
+         transform="matrix(0,2,-2,0,1780,1240)"
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4549"
+         sodipodi:cx="5"
+         sodipodi:cy="625"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         d="m 5.0000001,630 a 5,5 0 1 1 0,-10"
+         sodipodi:start="1.5707963"
+         sodipodi:end="4.712389"
+         sodipodi:open="true" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="552"
+       y="1235"
+       id="text4621"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="552"
+         y="1235"
+         id="tspan4623">medical stuff</tspan></text>
   </g>
 </svg>
