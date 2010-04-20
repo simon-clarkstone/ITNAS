@@ -94,6 +94,8 @@ Then make sure your apprentice isn't doing anything foolish and impetuous.
 >Wait for the other guy maybe?
 Jz: See if Tk has repaired the systems that had been EMP'd. If not, he is therefore incapacitated, and you must carry on in his stead.
 -P14
+>Other guy: Status report
+>Jz: Use some sort of controlled electromagnetic emission burst to develop a 3d model of the area, then locate LN-4-7-22.
 
 ---
 ---
@@ -112,11 +114,30 @@ Tk arrives about 1 hour after "maintaining" stabiliser will be ready.
 threads:
 Tk goes to medical place?
   they think Tk has impaired judgement
+  or no 
 Jz goes "over" and down
 Jz gets over-confident
+Jz meets another group?
+Jz drops from craft and flies around?  (no wings though...)
+Jz meets locals?
+Shewson is in a forset ATM?
+Switch to Shewson?
 
 ---
 ---
+
+[quote="KingTwelveSixteen"]>Wait for the other guy maybe?[/quote]
+You discussed that with Tkhlpzyv earlier, while you were still waiting at the spaceport.  You agreed at the time that you would just monitor the subject, until Tk arrived to work with you.
+[quote="A Fan"]Jz: See if Tk has repaired the systems that had been EMP'd. If not, he is therefore incapacitated, and you must carry on in his stead.[/quote]
+You doubt that repair has been finished yet; the repair process will take days at least.  You contact Tkhlpzyv.
+[quote]Jz: I'm near the area the subject is supposed to be.
+Jz: I'm going to keep examining it.
+Tk: Now isn't a good time for me to talk; I'm still in surgery.
+Tk: I'll need to shut down half my brain soon to let the surgeon operate on it.
+Jz: I thought you'd be able to get from the stabiliser to the spaceport faster than that.
+Tk: I was flying with my own wings though, without any radio or radar.
+Tk: I had to watch the landings of everyone else because I couldn't look up the approach patterns.
+Tk: And I had to use the ISD to ask for directions to the medical place.[/quote]
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
 
