@@ -4369,5 +4369,45 @@
          x="561.19238"
          y="1329.7523"
          id="tspan5117">jump-point</tspan></text>
+    <g
+       id="g3682"
+       transform="translate(48,360)">
+      <rect
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect2850-1-17"
+         width="36.062443"
+         height="68.589355"
+         x="267.63992"
+         y="603.1106" />
+      <g
+         id="g3677">
+        <path
+           sodipodi:nodetypes="cccc"
+           id="rect10452-0-5-4"
+           d="m 299.50067,631.18069 c 0,0 -27.65906,0.0632 -27.65906,0.0632 l 14.44412,12.07545 13.21494,-12.13868 z"
+           style="fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 273.08103,624.25 25.18022,0 -25.18022,-16.5 25.18022,0 -25.18022,16.5 z"
+           style="color:#000000;fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect10452-0-7-5-3-2-9-5-09" />
+        <path
+           sodipodi:nodetypes="cssc"
+           d="m 272.36138,650.25 c 0,0 9.48809,0 14.23214,0 16.54902,0 16.48396,16.5 0,16.5 -4.74405,0 -14.23214,0 -14.23214,0"
+           style="color:#000000;fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect10452-0-7-5-3-2-9-5-4-4" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="357"
+       y="998"
+       id="text3689"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3691"
+         x="357"
+         y="998">Ywsaznxd</tspan></text>
   </g>
 </svg>
