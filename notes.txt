@@ -40,6 +40,7 @@ Shewson -- protgonist #2
 Mr Jones -- old
 
 "the war"
+Bit of plane tastes all tingly: http://www.mspaintadventures.com/phpBB3/viewtopic.php?p=648131#p648131
 
 --
 
@@ -105,6 +106,9 @@ Jz/Ship: Begin activating systems upon detecting "Shewson"'s genetic code.
 >Measure the subject's individual intelligence, collaborative properties, and get excellent image, sound and REMS of them interactive -- it is an unprecedented oppurtunity
 Shewson, Timmy: Explore and experiment.
 >Press all the buttons.
+>Jz: Consider that you probably should have at least prepared an area free of hazards or fragile equipment for them.
+>Timmy: Open up the toolkit and play with the tools.
+Jz: Consider degree to which the severed cable was necessary for your ship's proper operation. Then try to isolate the feral from the human.
 
 ---
 ---
@@ -133,6 +137,10 @@ Jz meets locals?
   Befirend/attack them to befriend Jz.
   Assumes that becuase Timmy likes SHewson then all humans here do
 Switch to Shewson?
+
+Jz react to Shewson vs voices
+Timmy open tools
+main screen turn on (shewson PoV :-D )
 
 ---
 ---
