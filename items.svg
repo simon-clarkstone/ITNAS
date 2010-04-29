@@ -1059,7 +1059,7 @@
          sodipodi:role="line"
          x="122.39648"
          y="701.08594"
-         id="tspan7106">room (???)</tspan></text>
+         id="tspan7106">room (tools)</tspan></text>
     <path
        style="fill:none;stroke:#a14cee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 43.5,701.86218 0,10 -10,0 20,10 -20,10 10,0 0,10 10,-20 10,20 0,-10 10,0 -20,-10 20,-10 -10,0 0,-10 -10,20 -10,-20 z"
@@ -4508,5 +4508,21 @@
          d="m 561,1166.5 -14,0"
          style="color:#000000;fill:none;stroke:#b63266;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+    <path
+       id="path4558"
+       style="color:#000000;fill:none;stroke:#00b500;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 530,1350 0,60 m -15,-45 0,30 45,-15 -45,-15 z"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4595"
+       y="1380"
+       x="570"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="1380"
+         x="570"
+         sodipodi:role="line"
+         id="tspan4599">drone plane</tspan></text>
   </g>
 </svg>
