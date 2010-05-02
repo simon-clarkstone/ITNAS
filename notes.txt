@@ -106,7 +106,6 @@ Jz/Ship: Begin activating systems upon detecting "Shewson"'s genetic code.
 Shewson, Timmy: Explore and experiment.
 >Press all the buttons.
 >Jz: Consider that you probably should have at least prepared an area free of hazards or fragile equipment for them.
->Timmy: Open up the toolkit and play with the tools.
 Jz: Consider degree to which the severed cable was necessary for your ship's proper operation. Then try to isolate the feral from the human.
 
 ---
