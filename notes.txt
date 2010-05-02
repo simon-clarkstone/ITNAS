@@ -103,7 +103,6 @@ Jz: See if Tk has repaired the systems that had been EMP'd. If not, he is theref
 Shewson: Explore the alien spaceship. Note how everything seems to be made for you.
 Timmy: Feel oddly triangular.
 Jz/Ship: Begin activating systems upon detecting "Shewson"'s genetic code.
->Measure the subject's individual intelligence, collaborative properties, and get excellent image, sound and REMS of them interactive -- it is an unprecedented oppurtunity
 Shewson, Timmy: Explore and experiment.
 >Press all the buttons.
 >Jz: Consider that you probably should have at least prepared an area free of hazards or fragile equipment for them.
@@ -141,6 +140,8 @@ Switch to Shewson?
 Jz react to Shewson vs voices
 Timmy open tools
 main screen turn on (shewson PoV :-D )
+
+Sh will be socially retarded without REMS
 
 ---
 ---
