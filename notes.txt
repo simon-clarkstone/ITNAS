@@ -105,7 +105,6 @@ Timmy: Feel oddly triangular.
 Jz/Ship: Begin activating systems upon detecting "Shewson"'s genetic code.
 Shewson, Timmy: Explore and experiment.
 >Press all the buttons.
->Jz: Consider that you probably should have at least prepared an area free of hazards or fragile equipment for them.
 Jz: Consider degree to which the severed cable was necessary for your ship's proper operation. Then try to isolate the feral from the human.
 
 ---
@@ -139,6 +138,7 @@ Switch to Shewson?
 Jz react to Shewson vs voices
 Timmy open tools
 main screen turn on (shewson PoV :-D )
+  mirror
 
 Sh will be socially retarded without REMS
 
