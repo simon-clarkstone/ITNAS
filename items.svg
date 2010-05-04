@@ -4560,5 +4560,35 @@
          sodipodi:role="line"
          x="294.04297"
          y="1463.7363">tool ???</tspan></text>
+    <g
+       id="g5325"
+       transform="translate(450,970)">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4547-1"
+         d="m 290,245 -25,25 50,0 -25,-25 z"
+         style="fill:none;stroke:#00ff66;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="translate(0,-10)"
+         d="m 300,270 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="270"
+         sodipodi:cx="290"
+         id="path4551"
+         style="color:#000000;fill:none;stroke:#00ff66;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="770"
+       y="1240"
+       id="text4621-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="770"
+         y="1240"
+         id="tspan4623-4">human</tspan></text>
   </g>
 </svg>
