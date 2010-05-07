@@ -109,11 +109,11 @@ Jz/Ship: Begin activating systems upon detecting "Shewson"'s genetic code.
 Shewson, Timmy: Explore and experiment.
 >Press all the buttons.
 Jz: Consider degree to which the severed cable was necessary for your ship's proper operation. Then try to isolate the feral from the human.
-Jz: Decide if subject can be brought to civilizable levels of brain function.
 Jz: Call out to whomever is there.
 Jz: Mentally incapacitate the approaching entity.
 Timmy: Burn the witch! Wait, you don't know where the witch is, and you shouldn't play with matches...
 Wreck the witch's stuff! Or take its magic for your own! You're a wizard, Timmy!
+Jz: While absconding, assess the damage the subject and its human incurred on your ship.
 
 ---
 ---
@@ -142,6 +142,8 @@ Jz meets locals?
   Assumes that becuase Timmy likes SHewson then all humans here do
 
 Timmy/Shewson uses tool as weapon?
+  Sh: whee lookit me ive got a magic wand zappy zappy... OW
+  Sh injured so other human will catch them up?!!
 
 Sh will be socially retarded without REMS
 
@@ -149,12 +151,3 @@ Sh will be socially retarded without REMS
 ---
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
-
-
-
-[quote="A Fan"]Jz: Decide if subject can be brought to civilizable levels of brain function.[/quote]
-You contact Vcypcsua, because Tkhlpzyv is not available:
-[quote]Jz: Have a look at the recordings I got of LN-4-7-22 and the human that follows it around.
-Vc: Ok.
-Vc: Why did you let them into the [/quote]
-
