@@ -36,6 +36,8 @@ Original helmet cable has massive plugs that "extend" the standard data cable pl
 none: radio
 recognised, timmy has some: plastic, marble
 
+they are near "the Wall" (North)
+
 Timmy (Jones?) -- blue
 Shewson -- protgonist #2
 (LN-4-7-22)
@@ -109,11 +111,12 @@ Jz/Ship: Begin activating systems upon detecting "Shewson"'s genetic code.
 Shewson, Timmy: Explore and experiment.
 >Press all the buttons.
 Jz: Consider degree to which the severed cable was necessary for your ship's proper operation. Then try to isolate the feral from the human.
+-P15
 Jz: Call out to whomever is there.
 Jz: Mentally incapacitate the approaching entity.
 Timmy: Burn the witch! Wait, you don't know where the witch is, and you shouldn't play with matches...
-Wreck the witch's stuff! Or take its magic for your own! You're a wizard, Timmy!
 Jz: While absconding, assess the damage the subject and its human incurred on your ship.
+Jz: Check up on Tkhlpzyv.
 
 ---
 ---
