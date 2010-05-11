@@ -117,6 +117,12 @@ Jz: Mentally incapacitate the approaching entity.
 Timmy: Burn the witch! Wait, you don't know where the witch is, and you shouldn't play with matches...
 Jz: While absconding, assess the damage the subject and its human incurred on your ship.
 Jz: Check up on Tkhlpzyv.
+Jz: You have only seen LN-4-7-22 interacting with a single human. It may not be wise to assume that this is a typical interaction. In addition, humans generally respond poorly when they encounter a being of any species with an unconscious young human's head in its mouth.
+Unknown Adult: Realize that a) Timmy is unconscious, and b) the overgrown lizard seems to be trying to help by dragging Timmy out of the way of whatever they apparently encountered. And since it, whatever it is, seems to be dangerous, be on guard.
+Jz: Be careful if adult human decides to be aggressive.
+>Jz: Maybe you should simplify the situation by rendering the adult unconscious.
+>Shewson: Wail loudly!
+> Jz: Temporarily incapacitate the unknown adult to keep it from interfering, then help the human to gain the Subject's trust and admiration
 
 ---
 ---
