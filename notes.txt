@@ -120,10 +120,7 @@ Jz: Check up on Tkhlpzyv.
 Unknown Adult: Realize that a) Timmy is unconscious, and b) the overgrown lizard seems to be trying to help by dragging Timmy out of the way of whatever they apparently encountered. And since it, whatever it is, seems to be dangerous, be on guard.
 Jz: Be careful if adult human decides to be aggressive.
 >Jz: Maybe you should simplify the situation by rendering the adult unconscious.
->Shewson: Wail loudly!
-Jz: The subject seems to be sexually attracted to you. This may be useful, if only as an inroad to civilizing said subject.
-Incidentally, how does your species handle reproduction?
-Jz: you feel an undying urge to definitely think about this :P
+JZ: Bounce systematic queries off of the subject's subconcious mind, find out as many things as you can about it using this method.
 
 ---
 ---
@@ -164,10 +161,3 @@ Tk to be unavailable for hours after landing (panel 162)
 ---
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
-
-
-
-[quote="orngjce223"]Jz: The subject seems to be sexually attracted to you.  This may be useful, if only as an inroad to civilizing said subject.[/quote]
-You doubt it, since no sexual attraction has been built into your species.  Reproducing is something to be performed with thought, not driven by low-level motivation.  Therefore feral individuals will not reproduce, which is fortunate since they would not be able to raise children properly, or manage population growth.  If the subject had sexual desire like (e.g.) humans do, it would have already managed to fertilise itself.
-
-(diagram of Jz REMI to Sh, the *real* cause)
