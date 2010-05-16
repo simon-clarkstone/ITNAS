@@ -4659,5 +4659,54 @@
        d="m 549.06489,1990.8334 c -14.85566,-0.8834 -31.74913,4.5226 -48,1 -18.24713,-1.3148 -31.35922,-5.6609 -49,-7 -13.20753,-3.989 -27.69306,-1.082 -41.50258,-2.0671 -21.58102,1.0364 -43.83028,0.4978 -64.49742,6.0671 -20.2875,3.9344 -41.43701,1.1753 -62.1296,2 -33.95027,-6.0004 -48.06616,-0.3783 -72.8704,0 -18.80509,-5.2297 -38.10524,1.8324 -57.66908,1 -16.64996,-0.3396 -33.20543,-4.1564 -49.33092,-6 -17.231698,-3.0653 -35.016257,4.2536 -52.899338,5 -12.421873,0.5371 -24.628447,-0.5085 -36.754724,-3.0229"
        id="path2949"
        sodipodi:nodetypes="ccccccccccc" />
+    <g
+       transform="matrix(-0.86254457,-0.50598111,-0.50598111,0.86254457,1645.8155,604.98822)"
+       id="g3732-1-1">
+      <path
+         sodipodi:nodetypes="cssss"
+         id="path2826-1-7"
+         d="m 567.74035,492.402 c 0,0 10.09008,-4.51819 18.73106,-16.62019 15.18877,-21.27242 27.4566,-37.38321 36.55398,-65.78822 12.01492,-37.51453 20.52692,-80.67333 40.36559,-102.97713 17.1846,-19.31994 25.17329,-47.59632 31.77587,-82.82234"
+         style="fill:none;stroke:#00ff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;marker-end:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         d="m 653.92002,424.82876 0.0464,-37.5997 c 0,0 -17.02762,26.96793 -17.02762,26.96793 0,0 -28.95097,-8.19787 -28.95097,-8.19787 0,0 0.73321,-34.68905 0.73321,-34.68905 0,0 -15.94474,38.663 -15.94474,38.663"
+         style="fill:none;stroke:#00ff00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path10436-7-40"
+         inkscape:transform-center-x="7.1101238"
+         inkscape:transform-center-y="0.59934788" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         d="m 608.80195,494.84152 9.17142,-31.34751 -23.69619,17.60071 -15.96353,-11.75499 c 0,0 -1.40942,-32.48767 -1.40942,-32.48767 l -21.76624,29.11458"
+         style="fill:none;stroke:#00ff00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path10402-6-4-9"
+         inkscape:transform-center-x="9.4965222"
+         inkscape:transform-center-y="0.57818892" />
+      <g
+         id="g2977"
+         transform="matrix(0.56972901,-0.82183262,0.82183262,0.56972901,-184.76865,677.54657)"
+         inkscape:transform-center-x="-12.640578"
+         inkscape:transform-center-y="-6.0608255">
+        <path
+           id="path2930-4"
+           style="color:#000000;fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 565.14442,515.13192 20.06845,-14.32557 m -11.01468,22.35528 -0.94737,-24.57561"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="path10399-9-8"
+           style="fill:none;stroke:#00ff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 586.39331,500.38847 c 0,0 -41.11586,-5.27805 -41.11586,-5.27805 l 29.28776,29.3016 c 0,0 11.8281,-24.02355 11.8281,-24.02355 z"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccc"
+         d="M 627.86382,439.75981 606.75714,410.9277 m 28.25801,12.02016 -35.40934,4.79181"
+         style="color:#000000;fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path2930-7" />
+      <path
+         id="path3910"
+         style="color:#000000;fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 613.71513,463.83565 -16.91357,-31.4756 m 26.32267,15.81508 -35.73177,-0.15454"
+         sodipodi:nodetypes="cccc" />
+    </g>
   </g>
 </svg>
