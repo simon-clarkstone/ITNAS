@@ -4708,5 +4708,20 @@
          d="m 613.71513,463.83565 -16.91357,-31.4756 m 26.32267,15.81508 -35.73177,-0.15454"
          sodipodi:nodetypes="cccc" />
     </g>
+    <path
+       id="path4679"
+       style="color:#000000;fill:none;stroke:#ff0101;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 595,50 20,0 m -5,5 -15,-5 15,-5" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4726"
+       y="55"
+       x="620"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="55"
+         x="620"
+         sodipodi:role="line"
+         id="tspan4731">dagger</tspan></text>
   </g>
 </svg>
