@@ -121,6 +121,8 @@ Unknown Adult: Realize that a) Timmy is unconscious, and b) the overgrown lizard
 Jz: Be careful if adult human decides to be aggressive.
 >Jz: Maybe you should simplify the situation by rendering the adult unconscious.
 JZ: Bounce systematic queries off of the subject's subconcious mind, find out as many things as you can about it using this method.
+-P16
+Adult Human: Figure out what's going on here.
 
 ---
 ---
