@@ -120,9 +120,11 @@ Jz: Check up on Tkhlpzyv.
 Unknown Adult: Realize that a) Timmy is unconscious, and b) the overgrown lizard seems to be trying to help by dragging Timmy out of the way of whatever they apparently encountered. And since it, whatever it is, seems to be dangerous, be on guard.
 Jz: Be careful if adult human decides to be aggressive.
 >Jz: Maybe you should simplify the situation by rendering the adult unconscious.
-JZ: Bounce systematic queries off of the subject's subconcious mind, find out as many things as you can about it using this method.
 -P16
 Adult Human: Figure out what's going on here.
+> This is starting to get too complicated, prepare a Secondary Plan where the adult human's memories of you and the subject get erased, you wouldn't want the human to harm your subject with its dagger. But for plan A [...]
+Jz: Consider that perhaps your subject has been kept -secret- from most of the humans excepting its companion. That would explain the reaction.
+It isn't kosher to tell the characters directly about humans [i.e. "As a human, I know...", is it?
 
 ---
 ---
