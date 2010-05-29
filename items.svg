@@ -5646,5 +5646,26 @@
          id="path4556-5"
          sodipodi:nodetypes="cccccccccccc" />
     </g>
+    <rect
+       style="color:#000000;fill:none;stroke:#c83737;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6699"
+       width="20.25"
+       height="20.25"
+       x="1382"
+       y="671.00006" />
+    <rect
+       y="703.50006"
+       x="1381.75"
+       height="20.25"
+       width="20.25"
+       id="rect6701"
+       style="color:#000000;fill:none;stroke:#3737c8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;stroke:#c8ab37;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6703"
+       width="20.25"
+       height="20.25"
+       x="1411.25"
+       y="686.00006" />
   </g>
 </svg>
