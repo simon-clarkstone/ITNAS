@@ -155,6 +155,12 @@ Small red thing: Hide behind big red thing.
 Red things: Be all cute.
 Red things: Have black feet, not red feet, like proper red things. Or perhaps the red feet are just a consequence of Shewson and Timmy's native art style.
 -P18
+J: *muffled* Your tongue! It's got your tongue! Stay extremely still and go prone.
+S: Leap to the defense of J, fear be damned!
+Jz(unmodified): Damage assessment, take any recouperative action needed.
+Jay: Claw it to make it let go, then get Shewson to back away slowly with you
+>See if you can reach a mutually beneficial agreement with them.
+Zap the big red quadriped with your metapsycic faculties.
 
 ---
 ---
