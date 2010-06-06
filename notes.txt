@@ -143,7 +143,6 @@ Adult Human: Get the child back to the others, quickly- The people need to hear 
 Others: Uhoh! Mr. Jones forgot to take his medication again!
 Mr.Jones: YOU GOTTA BELIEVE ME, ITS TRUE!
 Timmy: Run away now that Mr. Jones is distracted!
->sleep snuggled up all cutely 
 >If you can't find a better place to sleep, dig a hole in the side of a hill.
 >Mr. Jones: Recount previous encounters with dragons with gusto to the archers. 
 >Shewson: Try to teach the new friend GEROMY to talk. Maybe with body language if you don't know how to talk much yourself.*
