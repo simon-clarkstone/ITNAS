@@ -10,6 +10,7 @@ Jzaprvlt -- apprentice
   (also, has "Jay")
 Vcypcsua -- a friend
   job is study/repair of those subjects
+  Vc knows Jz less well then Tk knows Jz?
 Cduunyzt -- random passenger
   "primary-school teacher"-ish
 Uinojwdk -- random passenger
@@ -212,35 +213,58 @@ Jay and Shewson grow to hate each other?
 
 
 
-[quote]
-Jz: I can talk now.
+Tkhlpzyv began monitoring your activities soon after waking up, and sent a message for you to contact Tk as soon as you were able.
+[quote]Jz: I can talk now.
 Jz: I was in an altered state to help with the retrieval of Ln-4-7-22.
-Jz: I created a new VMS which would be capable of the type of friendship that it is accustomed to.
+Jz: I created a new VMS which is capable of the type of friendship that it is accustomed to.
 Jzaprvlt sends a specification.
-Tk: The fact that you can do this without needing days of preparation really makes me feel my version.
+Tk: The fact that you can do this without needing days of preparation really makes me feel out-of-date.
 Vc: But you will need to perform trust generalisation on the subject to help with the post-retrieval work.
-Vc: You'll need language to do that easily.
+[quote]Vc: That task will be made more difficult because your initial brain-signal manipulation of the subject was excessive.
+Vcypcsua sends a pattern-analysis.
+Vc: It will cause trouble with separating you from the subject when it must be passed on to me.
+Jz: It desires my presence, but trust generalisation can let you substitute for me gradually.
+Vc: But the degree to which it responds to you is much more than the normal levels desired.
+Vc: Separation without inducing an uncooperative and resistant state will be a much slower process than normal.
+Vc: Your physical presence and involvement will be required for weeks.
+Jz: I will be able to assist your with your work, and learn about it, so my time will not be completely wasted.
+Tk: But that leaves me with no assistance.[/quote]
+Vc: Once you can speak its language that will help.
 Tk: I have been working on that, using ps82.
-Jz: You aren't using #d11748 - #d11750?
+Tkhlpzyv sends some language data.
+[quote]Jz: You didn't use my enhancements from #d11748 - #d11750?
 Tk: No.  I already explained to you why having an LFI-mesh rather than a grid is over-generalisation.
 Vc: I don't know if it's a bad idea as such, but it does need more documentation.
-Tk: It really is a bad idea.
-Tkhlpzyv sends some language data.
+Tk: I can confirm that it really is a bad idea.[/quote]
 Tk: I found that the humans now speak a merged version of two of the languages they had during our culling of them.
-Jz: Does this solve the question of the inconsistent reactions to me and the subject from the different humans?
-Tk: Yes.  Almost all of this group fear you because of the culling.
-Jz: So why didn't the young one?
-Tk: The human encountered the subject when the subject was small enough that the human did not perceive it as a threat.
+Jz: Does the translation solve the question of the inconsistent reactions to me and the subject from the different humans?
+Tk: For you, but not for me; I already knew what was going on.
+Tk: Almost all of this group of humans fear us, because of their memories of the culling.
+Jz: So why wasn't the young one afraid?
+Tk: The young human encountered the subject when the subject was small enough that the human did not perceive it as a threat.
 Vc: And young enough that the human succeeded in imposing human structures on its mind and befriending it.
-Jz: I had already considered these, but why didn't the situation equalise?
+Jz: If that's all, why didn't the situation equalise?
 Tk: Because they are humans, not people.
-Tk: Information does not flow freely between them.
-Tk: The young human desired to keep its friend, and thought that the others would forbid this if they knew, so it didn't tell them.
-Tk: And it was probably correct; they
-Jz: I didn't 
-Tk: Things like this are why you need experience; otherwise you do not consider the consequences of privacy.[/quote]
+Tk: You are thinking of their communication as being like ours, but it isn't.
+Tk: The young human desired to keep its friend, and knew that the others would forbid this if they discovered, so it concealed the fact from them.
+Jz: It was trying to gather evidence that LN-4-7-22 was harmless?
+Jz: Wouldn't it have enough before now?
+Tk: No.  It was misleading them to help its own goals not any collective ones.
+Jz: And that worked because... the other humans didn't know what it was doing most of the time!
+Jz: I have learnt about deception and purely-personal goals and low-communication groups.
+Jz: But when you put it all together it really becomes something new.
+Vc: I only usually encounter ferals doing those things, in a 1-sided way.
+Vc: I might not have spotted what was going on either.
+Tk: This is an unusually complicated situation; one needs to have years of practice with humans to realise what is going on.
+Tk: And having to understand humans that well is why you needed to wait for me rather than acting alone.
+Jz: I am newer than you; my ability to improvise is well beyond what you were capable of at my age, or now.
+Tk: True, but that still doesn't compensate for your lack of experience and planning.
+Tk: With planning you would have been able to meet the subject and its human in a location where you wouldn't have been discovered.
+Tk: The humans' weapons are a threat to you if they stay at range.
+Jz: They do not seem to enter the area that we are in.
+Jz: Even though the radiation here is not far above the background level.
+Tk: They must think the half-life to be longer than it actually is.
+Tk: But if they track you to your [/quote]
 
-... deception thign
-... excess attachment
 ... long life
 ... weapons still a threat
