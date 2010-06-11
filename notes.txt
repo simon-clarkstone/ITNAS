@@ -214,7 +214,14 @@ Jay and Shewson grow to hate each other?
 
 
 
-As you expected, Tkhlpzyv began monitoring your activities soon after waking up, and sent a message for you to contact Tk and Vcypcsua as soon as you were able to.  You are also eager to contact them.  (The resulting conversation includes some side-branches that proceed in parallel with the main path.)
+[quote="CasMat"]Jz: Ask Vc for her(?) complete analysis and advice. Then consult Tk for his opinion.[/quote]
+You are confused by this arbitrary assignment of pronoun genders.
+[quote="orngjce223"]Jz: Check up on Tk, explain what's happening, figure out what to do next, anticipate and respond to verbal chiding from your superior.[/quote]
+[img]http://img269.imageshack.us/img269/3227/itnas219.png[/img]
+
+As you expected, Tkhlpzyv began monitoring your activities soon after waking up, and sent a message for you to contact Tk and Vcypcsua as soon as you were able to.  You are eager to contact them anyway.
+
+The resulting conversation includes some side-branches that proceed in parallel with the main path.
 [quote]Jz: I can talk now.
 Jz: I was in an altered state to help with the retrieval of Ln-4-7-22.
 Jz: I created a new VMS which is capable of the type of friendship that it is accustomed to.
@@ -225,12 +232,12 @@ Vc: But you will need to perform trust generalisation on the subject to help wit
 Vcypcsua sends a pattern-analysis.
 Vc: It will cause trouble with separating you from the subject when it must be passed on to me.
 Jz: It desires my presence, but trust generalisation can let you substitute for me gradually.
-Vc: But the degree to which it responds to you is much more than the normal levels desired.
+Vc: The degree to which it responds to you is much more than the normal levels desired.
 Vc: Separation without inducing an uncooperative and resistant state will be a much slower process than normal.
 Vc: Your physical presence and involvement will be required for weeks.
 Jz: I will be able to assist your with your work, and learn about it, so my time will not be completely wasted.
 Tk: But that leaves me with no assistance.[/quote]
-Vc: Once you can speak its language that will help.
+Vc: You must speak its language to do so.
 Tk: I have been working on that, using ps82.
 Tkhlpzyv sends some language data.
 [quote]Jz: You didn't use my enhancements from #d11748 - #d11750?
@@ -254,29 +261,37 @@ Tk: No.  It was misleading them to help its own goals not any collective ones.
 Jz: Aha.  And that worked because... the other humans didn't know what it was doing most of the time!
 Jz: I have learnt about deception and purely-personal goals and low-communication groups.
 Jz: But when you put it all together it really becomes something new.
-Vc: I only usually encounter ferals doing those things, in a 1-sided way.
+Vc: I only usually encounter ferals doing those things to me and my team, in a 1-sided way.
 Vc: I might not have spotted what was going on either.
 Tk: This is an unusually complicated situation; one needs to have years of practice with humans to realise what is going on.
 Tk: And having to understand humans that well is why you needed to wait for me rather than acting alone.
 Jz: I am newer than you; my ability to improvise is well beyond what you were capable of at my age, or now.
 Tk: True, but that still doesn't compensate for your lack of experience and planning.
-Tk: With planning you would have been able to meet the subject and its human in a location where you wouldn't have been discovered.[/quote]
-Jz: This means becoming known to the humans could cause future problems if they become more vigilant as a consequence.
-Jz: They do not seem to enter the area that we are in, north of the long wall.
+Tk: With more patience you would have been able to meet the subject and its human in a location where you wouldn't have been discovered.
+Tk: And avoided the threat of increased vigilance you pointed out in the other conversation branch.[/quote]
+Jz: So becoming known to the humans will cause future problems if it makes them more vigilant.
+Jz: Fortunately, they do not seem to enter the area that we are in, north of the long wall.
 Jz: Even though the radiation here is not far above the background level.
-Jz: The attack that hit it did not create such long-lived isotopes.
+Jz: The attack that hit here did not create long-lived isotopes.
 Tk: These humans must think the half-life to be longer than it actually is.
 Tk: But they may desire enough to kill you both to enter the area.
-Tk: Their longbows are a threat to you if they stay beyond your REMI range.
+Tk: Their longbows are a threat to you if they stay beyond your REMI and telekinesis range.
 Tk: And longbows will emit the loaded projectile if you attack the wielder incorrectly.
 Jzaprvlt sends a sketch.
-Tk: Yes, that is about the best you can do when they are more than a couple of metres away.
+Tk: Yes, that is about the best you can do when they are in your range but more than a couple of metres away.
 Jz: What should my strategy be?
 Vc: Your method of rapidly making the subject desire your presence partly compensates for the human threat you have created.
 Vc: It will expedite getting the subject to abandon its human companion, if it wishes to follow you.
-Tk: You must ensure the subject realises that the humans will physically restrain the youth if necessary to prevent it from meeting the subject.
 Jz: I cannot evacuate immediately then?
 Vc: No.  LN-4-7-22's expectation of reuniting with its human must reduce before it will leave.
-Jz: I will be sure to stay close to it.
+Tk: The humans will physically restrain the youth if necessary to prevent it from meeting the subject.
+Vc: Yes.  Ensure the subject realises that, Jzaprvlt.
+Jz: Ok.
+Jz: And I will be sure to stay close to it.
+Vc: You must.
 Vc: I must now fully attend to my work on other ferals.[/quote]
-Vcypcsua ceases conversing with you, but Tkhlpzyv remains partially attentive.
+Vcypcsua ceases conversing with you, but Tkhlpzyv remains partially attentive.  You consider all the instructions you were just given, the problems that you could have avoided if you had been able to have the conversation earlier, and how to correct yourself.
+
+Also, you have not eaten recently and are consuming long-term energy stores.
+
+[size=85][i]Readers can submit commands for Tkhlpvyz, Jzaprvlt/Jay, or Shewson (or they could try their luck with other things).  The author is amazed how many hours this conversation took to write.[/i][/size]
