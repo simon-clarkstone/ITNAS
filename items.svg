@@ -5799,5 +5799,37 @@
        d="m 573.13369,1951.3431 c 0.97466,-2.4367 29.00909,-12.7634 41.10142,-9.92 47.88478,-0.3718 56.76875,4.4533 62.89858,7.92 19.36944,10.5259 38.04059,13.775 54.51505,25.0806 21.30561,10.8908 37.73405,4.6705 66.85436,12.6762 29.19829,1.8516 22.32372,-0.6029 35.45286,-1.3674 14.55099,-6.6275 21.4821,-2.1597 31.29581,-7.9033 8.6502,-10.0802 13.99336,-14.0062 20.36229,-19.0905 9.10823,-5.5682 15.40849,-4.0936 25.40155,-4.8818"
        id="path11151"
        sodipodi:nodetypes="ccccccccc" />
+    <g
+       id="g7894"
+       transform="matrix(5,0,0,5,711.02944,1283.2426)"
+       style="stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="7.8539816"
+         sodipodi:start="4.712389"
+         d="M 9.807655e-8,-5 C 2.7614238,-4.9999999 5.0000001,-2.7614237 5,9.807655e-8 4.9999999,2.7614237 2.7614238,4.9999999 1.6987242e-7,5"
+         sodipodi:ry="5"
+         sodipodi:rx="5"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         id="path7831"
+         style="color:#000000;fill:none;stroke:#ff0101;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         id="path7871"
+         d="M 0,0 10,0"
+         style="color:#000000;fill:none;stroke:#ff0101;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8448"
+       y="1290.9117"
+       x="770"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="1290.9117"
+         x="770"
+         sodipodi:role="line"
+         id="tspan8452">bow</tspan></text>
   </g>
 </svg>
