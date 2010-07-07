@@ -5831,5 +5831,21 @@
          x="770"
          sodipodi:role="line"
          id="tspan8452">bow</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#ffcc00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 720.69927,1342.8759 c 49.00951,18.217 -22.01061,-36.3193 29.06907,-19.15"
+       id="path2943"
+       sodipodi:nodetypes="cs" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="770"
+       y="1338.995"
+       id="text9571"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="770"
+         y="1338.995"
+         id="tspan9575">internet-lines</tspan></text>
   </g>
 </svg>
