@@ -185,6 +185,9 @@ Jz: Encode the necessary linguistic information into the TALK-VM. Set its curren
 Jay: Warn the other dragon not to go back!!!
 Jz: This is more a question for the author, but what exactly do you mean by "experiment" with its state of mind? Is it just like a simple scan or can modifications be made? Can you communicate in this manner? If so, you should start trying to convince "Shewson" to return to civilization with you... forever. Maybe to entice it you could mention the ability to interact with many more of your species and the capability to expand his knowledge and capabilities far beyond their current levels.
 -P19
+Tk: Accept, with appropriate respect for the fact that it is your understudy's body and safety.
+Jz: Watch and learn.
+Does the ship have REMI or telekinesis?
 
 ---
 ---
@@ -237,7 +240,24 @@ But wait, humans shouldn't be arriving yet!
   not humans?
   humans driven by something else?
 
+Fabbing gifts.  Glass beads.
+pull-into-hatch sploiters will look like cliche alien abduction
+
 ---
 ---
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
+
+
+[quote="Schlega"]Does the ship have REMI or telekinesis?[/quote]
+It has both capabilities internally.  Externally it has engines, but they are designed to focus on things that are 1-1000km deep, not objects as small as humans.  Also it has sploiters that can lift items that are below the hatch up inside.
+[quote="orngjce223"]Tk: Accept, with appropriate respect for the fact that it is your understudy's body and safety.[/quote]
+
+[quote="CasMat"]I'm also for possession, though I'm curious as to how this will affect "Jay's" behavior, or whether the entire program will be suppressed while Tk is possessing Jz.[/quote]
+It is already not affecting Jzaprvlt's behaviour, and is barely being affected by events at all.  Jzaprvlt must have done this so that it experienced a sleep-like state while LN-4-7-22 was also sleeping.
+[quote="CasMat"]Jz/Tk: Try speaking to them.[/quote]
+
+
+[b]>Jz: Pronounce these phonemes.[/b]
+
+[size=85][i]'Sup dawg.  The author heard you like commanding characters so the author put a character in your character, so now you can command characters by commanding characters.[/i][/size]
