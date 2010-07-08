@@ -5847,5 +5847,40 @@
          x="770"
          y="1338.995"
          id="tspan9575">internet-lines</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#ba4571;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 531.82634,1500.7939 0,40"
+       id="path11954-1" />
+    <path
+       style="color:#000000;fill:none;stroke:#ba4571;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 511.82634,1520.7939 40,0"
+       id="path11956-5" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7591"
+       y="1527.9828"
+       x="562.82843"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="1527.9828"
+         x="562.82843"
+         sodipodi:role="line"
+         id="tspan7593">sound origin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="893.78296"
+       y="1274.5084"
+       id="text7608"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7610"
+         x="893.78296"
+         y="1274.5084">aiming</tspan></text>
+    <path
+       id="path7517"
+       style="color:#000000;fill:none;stroke:#ff0101;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000001, 6.00000003;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 856.71053,1247.0036 -36.78018,55.0096"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
