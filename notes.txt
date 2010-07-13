@@ -185,9 +185,10 @@ Jz: Encode the necessary linguistic information into the TALK-VM. Set its curren
 Jay: Warn the other dragon not to go back!!!
 Jz: This is more a question for the author, but what exactly do you mean by "experiment" with its state of mind? Is it just like a simple scan or can modifications be made? Can you communicate in this manner? If so, you should start trying to convince "Shewson" to return to civilization with you... forever. Maybe to entice it you could mention the ability to interact with many more of your species and the capability to expand his knowledge and capabilities far beyond their current levels.
 -P19
-Tk: Accept, with appropriate respect for the fact that it is your understudy's body and safety.
 Jz: Watch and learn.
-Does the ship have REMI or telekinesis?
+Hm. If they are reasonable, then simply explaining to them that you intend to take this individual and leave may be the least dangerous course of action, but I'm not sure if they would respond well so...
+Tk: Attempt to explain that you only mean to remove this fellow "dragon" from the environment, and mean them no harm.
+Failing that, gauge their reaction to intimidation.
 
 ---
 ---
