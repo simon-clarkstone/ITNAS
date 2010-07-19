@@ -189,6 +189,16 @@ Jz: Watch and learn.
 Hm. If they are reasonable, then simply explaining to them that you intend to take this individual and leave may be the least dangerous course of action, but I'm not sure if they would respond well so...
 Tk: Attempt to explain that you only mean to remove this fellow "dragon" from the environment, and mean them no harm.
 Failing that, gauge their reaction to intimidation.
+Tk: Assess what you can of the conversation, and the extent of their knowledge about your kind.
+Jz: If they want you to approach perhaps you could get within range and then disarm the humans.
+Shewson: This is really scary so run away.
+Shewson: Crying might actually be a good idea, y'know. Sympathy and all.
+Shewson: cry.
+I am assuming the italic text is Tk influencing Shewson's mind. If this is correct (or if Tk would agree with the italic text in any case):
+Tk: Render the subject unconscious and comply with their demands.
+Otherwise:
+Tk: It would most likely be easier to obtain a new apprentice than to find a similar test subject, but much of the data obtainable from this subject has already been corrupted by Jz's intervention. Determine which of them is more valuable.
+Call the ship back to pick them up as quickly as possible, while using telekinesis to place obstacles in the path of the arrows, prioritized according to the value of their target if it is not possible to intercept all of them. If there are no rocks or logs sufficiently large nearby, then use the less valuable person as the obstacle.
 
 ---
 ---
@@ -244,23 +254,20 @@ But wait, humans shouldn't be arriving yet!
 Fabbing gifts.  Glass beads.
 pull-into-hatch sploiters will look like cliche alien abduction
 If one human looses arrow then attack it, because the other must pan aim traversely.
+humans won't be satisfied with them running away.
+shewson cries for timmy
+  humans deny (amplify this to break hope)
+  becomes braver?
+    easier to fix than Jz
+Jz injured (to increase Shewson binding?)
+  arrow catch poss too
+  if Jz lost/absconds, Sh is mentally unusable
+Jz expensive, Sh cheap
+  reveal lifespan
+  reveal feral seeding
 almost getting away, but then EMP from other thing.
 
 ---
 ---
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
-
-
-[quote="Schlega"]Does the ship have REMI or telekinesis?[/quote]
-It has both capabilities internally.  Externally it has engines, but they are designed to focus on things that are 1-1000km deep, not objects as small as humans.  Also it has sploiters that can lift items that are below the hatch up inside.
-[quote="orngjce223"]Tk: Accept, with appropriate respect for the fact that it is your understudy's body and safety.[/quote]
-
-[quote="CasMat"]I'm also for possession, though I'm curious as to how this will affect "Jay's" behavior, or whether the entire program will be suppressed while Tk is possessing Jz.[/quote]
-It is already not affecting Jzaprvlt's behaviour, and is barely being affected by events at all.  Jzaprvlt must have done this so that it experienced a sleep-like state while LN-4-7-22 was also sleeping.
-[quote="CasMat"]Jz/Tk: Try speaking to them.[/quote]
-
-
-[b]>Jz: Pronounce these phonemes.[/b]
-
-[size=85][i]'Sup dawg.  The author heard you like commanding characters so the author put a character in your character, so now you can command characters by commanding characters.[/i][/size]
