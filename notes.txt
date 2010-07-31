@@ -44,6 +44,8 @@ Timmy (Jones?) -- blue
 Shewson -- protgonist #2
 (LN-4-7-22)
 * Some parts of mind act as "voices" due to misconfiguration
+  is unusual for a feral due to relationship with human
+    but not *that* unususal (234/235)
 Mr Jones -- old
 
 "the war"
@@ -190,15 +192,11 @@ Hm. If they are reasonable, then simply explaining to them that you intend to ta
 Tk: Attempt to explain that you only mean to remove this fellow "dragon" from the environment, and mean them no harm.
 Failing that, gauge their reaction to intimidation.
 Tk: Assess what you can of the conversation, and the extent of their knowledge about your kind.
-Jz: If they want you to approach perhaps you could get within range and then disarm the humans.
 Shewson: This is really scary so run away.
-Shewson: Crying might actually be a good idea, y'know. Sympathy and all.
 Shewson: cry.
 I am assuming the italic text is Tk influencing Shewson's mind. If this is correct (or if Tk would agree with the italic text in any case):
 Tk: Render the subject unconscious and comply with their demands.
-Otherwise:
-Tk: It would most likely be easier to obtain a new apprentice than to find a similar test subject, but much of the data obtainable from this subject has already been corrupted by Jz's intervention. Determine which of them is more valuable.
-Call the ship back to pick them up as quickly as possible, while using telekinesis to place obstacles in the path of the arrows, prioritized according to the value of their target if it is not possible to intercept all of them. If there are no rocks or logs sufficiently large nearby, then use the less valuable person as the obstacle.
+[[Call the ship back to pick them up as quickly as possible,]] while using telekinesis to place obstacles in the path of the arrows, prioritized according to the value of their target if it is not possible to intercept all of them. If there are no rocks or logs sufficiently large nearby, then [[use the less valuable person as the obstacle.]]
 
 ---
 ---
