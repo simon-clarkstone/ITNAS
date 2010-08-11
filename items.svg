@@ -5887,5 +5887,21 @@
        d="m 341.97145,1880.201 c 0.1245,0.6478 -3.90532,-2.4753 -6.18007,-3.8645 -2.47021,-2.3218 -2.4524,-1.357 -4.64617,-3.3212 -0.71676,-1.0262 1.93953,-1.3279 1.53394,-2.5572 0.18975,-1.0922 -5.10462,-6.3589 -4.21548,-6.65 1.76752,-0.6424 5.10023,3.36 6.24839,5.0878 1.30952,5e-4 3.1067,-2.6581 2.9914,-0.4995 1.64623,5.807 3.68152,8.7517 4.26799,11.8046 z"
        id="path3747-4"
        sodipodi:nodetypes="cccccccs" />
+    <path
+       id="path7422"
+       style="fill:none;stroke:#ffff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 745,1395 25,0 m -25,-20 25,0 m -40,-5 30,10 0,4.8171 0,5.1829 -30,10 0,-30 z"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="780"
+       y="1390"
+       id="text9571-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="780"
+         y="1390"
+         id="tspan9575-9">robot-tank</tspan></text>
   </g>
 </svg>
