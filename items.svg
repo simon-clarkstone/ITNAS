@@ -5903,5 +5903,26 @@
          x="780"
          y="1390"
          id="tspan9575-9">robot-tank</tspan></text>
+    <path
+       id="path4154-1-7-8"
+       style="fill:none;stroke:#b344ac;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 739.32012,1417.0718 c 0,0 -10.91929,25.8585 6.22692,30.5808 26.76549,7.3716 27.13284,-4.4739 27.13284,-4.4739"
+       sodipodi:nodetypes="css" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text10245"
+       y="1435.9619"
+       x="784.94977"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan10247"
+         y="1435.9619"
+         x="784.94977"
+         sodipodi:role="line">rope</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#b344ac;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 750,1430 10,0 -10,5 10,0 -10,-5 z"
+       id="path10281"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
