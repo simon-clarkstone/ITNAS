@@ -5905,7 +5905,7 @@
          id="tspan9575-9">robot-tank</tspan></text>
     <path
        id="path4154-1-7-8"
-       style="fill:none;stroke:#b344ac;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#b344ac;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 739.32012,1417.0718 c 0,0 -10.91929,25.8585 6.22692,30.5808 26.76549,7.3716 27.13284,-4.4739 27.13284,-4.4739"
        sodipodi:nodetypes="css" />
     <text
