@@ -5924,5 +5924,39 @@
        d="m 750,1430 10,0 -10,5 10,0 -10,-5 z"
        id="path10281"
        sodipodi:nodetypes="ccccc" />
+    <g
+       transform="translate(433,1442)"
+       id="g13215">
+      <g
+         id="g13176">
+        <path
+           style="color:#000000;fill:none;stroke:#ff4000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 320,65 0,-40"
+           id="path13151"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="color:#000000;fill:none;stroke:#ff4000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 300,45 40,0"
+           id="path13153" />
+      </g>
+      <rect
+         y="25"
+         x="300"
+         height="40"
+         width="40"
+         id="rect7966"
+         style="color:#000000;fill:none;stroke:#ff4000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="783"
+       y="1492"
+       id="text13255"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="783"
+         y="1492"
+         id="tspan13257">hatch down</tspan></text>
   </g>
 </svg>
