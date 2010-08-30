@@ -5958,5 +5958,32 @@
          x="783"
          y="1492"
          id="tspan13257">hatch down</tspan></text>
+    <g
+       style="display:inline"
+       id="g5142-2"
+       transform="translate(166.00001,1364)">
+      <path
+         id="path5065-9-3"
+         d="m 370.49997,190.00003 -20.49999,19.99999 19.99999,20 20,-20 -19.5,-19.99999 z"
+         style="fill:none;stroke:#59bbbc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         y="190"
+         x="350"
+         height="40"
+         width="40"
+         id="rect5089-4"
+         style="color:#000000;fill:none;stroke:#59bbbc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="560.82843"
+       y="1576.9828"
+       id="text16224"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan16226"
+         sodipodi:role="line"
+         x="560.82843"
+         y="1576.9828">plate</tspan></text>
   </g>
 </svg>
