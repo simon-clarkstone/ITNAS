@@ -4570,12 +4570,13 @@
          y="1463.7363">tool ???</tspan></text>
     <g
        id="g5325"
-       transform="translate(450,970)">
+       transform="translate(450,970)"
+       style="color:#000000;fill:none;stroke:#00ff66;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
       <path
          sodipodi:nodetypes="cccc"
          id="path4547-1"
          d="m 290,245 -25,25 50,0 -25,-25 z"
-         style="fill:none;stroke:#00ff66;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#00ff66;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;color:#000000;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          transform="translate(0,-10)"
          d="m 300,270 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
