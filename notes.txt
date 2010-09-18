@@ -202,6 +202,7 @@ Tk: Render the subject unconscious and comply with their demands.
 Shewson: Try your best to pronounce human words. Tell them Timmy is your best friend, and you were playing with a magic wand but you didn't mean to hurt him and then you met the new dragon and she helped you take Timmy to get help but everyone got mad and now you're scared.
 Jz: Now that Tk is no longer controlling you, apply your own valuation to decide your course of action. If the probability that you will be killed in an escape attempt is too high, it may be less dangerous to have your ship get at least 1 km away, then focus on a large swath of land that includes the locations of the humans. You only need enough precision to crush the humans without harming yourself.
 Next time you have an opportunity, try pulling out the damaged bar with your tail.
+>Aha, progress! Eat the meat calmly, then go back to the corner until the human leaves.
 
 ---
 ---
