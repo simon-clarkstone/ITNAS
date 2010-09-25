@@ -203,6 +203,12 @@ Shewson: Try your best to pronounce human words. Tell them Timmy is your best fr
 Jz: Now that Tk is no longer controlling you, apply your own valuation to decide your course of action. If the probability that you will be killed in an escape attempt is too high, it may be less dangerous to have your ship get at least 1 km away, then focus on a large swath of land that includes the locations of the humans. You only need enough precision to crush the humans without harming yourself.
 Next time you have an opportunity, try pulling out the damaged bar with your tail.
 >Aha, progress! Eat the meat calmly, then go back to the corner until the human leaves.
+>Maybe you can use it to pry the bars apart.
+-P21
+>Use leverage against the bars to tear it from his grip, or else break it in half.
+>Once you have control over the end, toss it into the far corner of the cell and ignore it until the human leaves.
+> Contemplate if you will be able to get your REMI and anything else that was removed back.
+> Steal that knife
 
 ---
 ---
