@@ -207,7 +207,6 @@ Next time you have an opportunity, try pulling out the damaged bar with your tai
 -P21
 >Use leverage against the bars to tear it from his grip, or else break it in half.
 > Steal that knife
->Compare durability of spear-weapon to durability of bars
 > Wait until human(s) have left you unsupervised. Then chew through forelimb restraints to assist in remainder of escape attempt.
 once you are no longer bound, examine the wobbly floor tile.
 
