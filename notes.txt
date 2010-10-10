@@ -209,6 +209,9 @@ Next time you have an opportunity, try pulling out the damaged bar with your tai
 > Steal that knife
 > Wait until human(s) have left you unsupervised. Then chew through forelimb restraints to assist in remainder of escape attempt.
 once you are no longer bound, examine the wobbly floor tile.
+>Try not to wake the subject if it is sleeping, it will most likely panic.
+>is there anything you can use to pick the lock?
+> Check the human for keys.
 
 ---
 ---
