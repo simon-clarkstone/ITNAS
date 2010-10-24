@@ -212,9 +212,9 @@ once you are no longer bound, examine the wobbly floor tile.
 >Try not to wake the subject if it is sleeping, it will most likely panic.
 >is there anything you can use to pick the lock?
 > Check the human for keys.
->Quickly, before they get here! Can you fit through the hatch?
-close the hatch and pretend nothing happened.
->Enter the hatch, close it behind you. Leave the spear. With any luck, they'll be baffled.
+flee.
+Break the spear in half and take the bladed end with you. You should also close the hatch and tie the rope that was previously keeping it closed back together.
+>If you can cut or break the rope on the next hatch as you run past it, do so.
 
 ---
 ---
