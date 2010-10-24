@@ -5986,5 +5986,41 @@
          sodipodi:role="line"
          x="560.82843"
          y="1576.9828">plate</tspan></text>
+    <g
+       id="g9341"
+       transform="translate(430,1505)">
+      <rect
+         style="color:#000000;fill:none;stroke:#ff4000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect9349"
+         width="40"
+         height="40"
+         x="300"
+         y="25" />
+      <rect
+         y="30"
+         x="305"
+         height="30"
+         width="30"
+         id="rect9351"
+         style="color:#000000;fill:none;stroke:#ff4000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:none;stroke:#ff4000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect9353"
+         width="20"
+         height="20"
+         x="310"
+         y="35" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9355"
+       y="1549.2643"
+       x="784.36346"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="1549.2643"
+         x="784.36346"
+         sodipodi:role="line"
+         id="tspan9359">hatch up (out of page)</tspan></text>
   </g>
 </svg>
