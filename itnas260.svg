@@ -17,7 +17,7 @@
    sodipodi:docname="itnas260.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   inkscape:export-filename="itnas259.png">
+   inkscape:export-filename="itnas260.png">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="53.256047"
-     inkscape:cy="265.8568"
+     inkscape:cx="201.25605"
+     inkscape:cy="168.8568"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
