@@ -1,8 +1,10 @@
 Tkhlpzyv -- init
+  size: 125, 124, 280
   stopped growing at age 8
   job is retrieval
   something odd in childhood (Panel 144)
 Jzaprvlt -- apprentice
+  size: 133, 150, 400
   enthusiastic, yet arrogant?
   economic reform e.g. Iiorxhjb's stuff.
   Age 5
@@ -42,12 +44,15 @@ recognised, timmy has some: plastic, marble, shotgun cartridge
 they are near "the Wall" (North)
 
 Timmy (Jones?) -- blue
+  size: 53, 82, 76
 Shewson -- protgonist #2
 (LN-4-7-22)
+  size: same as Tkhlpzyv
 * Some parts of mind act as "voices" due to misconfiguration
   is unusual for a feral due to relationship with human
     but not *that* unususal (234/235)
 Mr Jones -- old
+  size: 63, 103, 103
 
 "the war"
 Bit of plane tastes all tingly: http://www.mspaintadventures.com/phpBB3/viewtopic.php?p=648131#p648131
