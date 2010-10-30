@@ -218,7 +218,7 @@ once you are no longer bound, examine the wobbly floor tile.
 >is there anything you can use to pick the lock?
 > Check the human for keys.
 flee.
-Break the spear in half and take the bladed end with you. You should also close the hatch and tie the rope that was previously keeping it closed back together.
+Break the spear in half and take the bladed end with you.
 >If you can cut or break the rope on the next hatch as you run past it, do so.
 
 ---
