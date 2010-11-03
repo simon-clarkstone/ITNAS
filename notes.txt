@@ -217,9 +217,9 @@ once you are no longer bound, examine the wobbly floor tile.
 >Try not to wake the subject if it is sleeping, it will most likely panic.
 >is there anything you can use to pick the lock?
 > Check the human for keys.
-flee.
-Break the spear in half and take the bladed end with you.
+-P22
 >If you can cut or break the rope on the next hatch as you run past it, do so.
+now flee.
 
 ---
 ---
