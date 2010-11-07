@@ -220,6 +220,8 @@ once you are no longer bound, examine the wobbly floor tile.
 -P22
 >If you can cut or break the rope on the next hatch as you run past it, do so.
 now flee.
+>If they left the room, you might be able to re-enter your cell. They're unlikely to expect you to do that, so you'll be relatively safe there.
+if it's predicted to be safe on the order of 1-2 minutes, cut open the other hatch and attempt to rouse specimen LN-4-7-22.
 
 ---
 ---
@@ -250,8 +252,12 @@ Fabbing gifts.  Glass beads.
 
   reveal feral seeding
 
+now, would they leave the cell unlocked after this point?; see Dfaran's suggestion
+something under those logs?
+
 ---
 ---
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
 
+You still have cached fragments of the database that you were looking at when the subject and its human were damaging the contents of the spacecraft and you were assessing the damage.
