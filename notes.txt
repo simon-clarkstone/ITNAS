@@ -221,7 +221,6 @@ once you are no longer bound, examine the wobbly floor tile.
 >If you can cut or break the rope on the next hatch as you run past it, do so.
 now flee.
 >If they left the room, you might be able to re-enter your cell. They're unlikely to expect you to do that, so you'll be relatively safe there.
-if it's predicted to be safe on the order of 1-2 minutes, cut open the other hatch and attempt to rouse specimen LN-4-7-22.
 
 ---
 ---
@@ -254,6 +253,8 @@ Fabbing gifts.  Glass beads.
 
 now, would they leave the cell unlocked after this point?; see Dfaran's suggestion
 something under those logs?
+Shewson as hostage?
+block door(s) from inside?
 
 ---
 ---
