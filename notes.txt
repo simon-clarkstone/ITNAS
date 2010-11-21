@@ -221,7 +221,8 @@ once you are no longer bound, examine the wobbly floor tile.
 >If you can cut or break the rope on the next hatch as you run past it, do so.
 now flee.
 >If they left the room, you might be able to re-enter your cell. They're unlikely to expect you to do that, so you'll be relatively safe there.
-> Nudge whoever's nudging you back to get it to stop. Don't move too much though, your bindings might hurt you if you try.
+> Nudge whoever's nudging you back to get it to stop.
+[[> maybe you need to try to protect your female friend? is there any danger nearby?]] if not maybe you should just follow her and she will find somewhere safe to hide
 
 ---
 ---
