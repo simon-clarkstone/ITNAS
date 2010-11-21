@@ -6022,5 +6022,47 @@
          x="784.36346"
          sodipodi:role="line"
          id="tspan9359">hatch up (out of page)</tspan></text>
+    <g
+       id="g6898"
+       transform="matrix(0.20258198,0.9792653,-0.9792653,0.20258198,751.62579,1568.8241)">
+      <path
+         sodipodi:nodetypes="ssss"
+         inkscape:connector-curvature="0"
+         id="path6851"
+         d="m 260.10061,227.39164 c -4.88996,-2.16352 -6.60689,-2.21905 -11.68348,-4.60128 -6.34872,-2.97919 -8.15387,-3.10264 -12.75899,-4.75833 C 226.13152,214.60691 222.23201,214.30276 214.75,213"
+         style="color:#000000;fill:none;stroke:#c87137;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ssss"
+         inkscape:connector-curvature="0"
+         id="path6856"
+         d="m 213.5,212 c 3.52739,1.43799 -3.92305,3.68567 -9,-0.5 -4.61181,-3.80219 -7.5883,-9.97594 -6,-9 7.25265,4.45643 4.55455,5.24177 15,9.5 z"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       id="g4159"
+       transform="matrix(0.99999346,-0.003624,-0.003624,-0.99999346,252.42698,1798.9877)">
+      <path
+         style="color:#000000;fill:none;stroke:#ff0101;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 318.49316,195.55616 -60.45101,-9.2238"
+         id="path5387"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4679-3"
+         d="m 304.41897,188.35079 14.07419,7.20537 -15.58257,2.68021"
+         style="color:#000000;fill:none;stroke:#ff0101;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="576.36346"
+       y="1610.2643"
+       id="text10088"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan10090"
+         sodipodi:role="line"
+         x="576.36346"
+         y="1610.2643">half-spear</tspan></text>
   </g>
 </svg>
