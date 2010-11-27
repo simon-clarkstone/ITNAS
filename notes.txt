@@ -220,7 +220,6 @@ once you are no longer bound, examine the wobbly floor tile.
 -P22
 >If you can cut or break the rope on the next hatch as you run past it, do so.
 now flee.
->If they left the room, you might be able to re-enter your cell. They're unlikely to expect you to do that, so you'll be relatively safe there.
 > Nudge whoever's nudging you back to get it to stop.
 both: probably a good idea to get out of there now, you never know when the humans will be back.
 
@@ -257,6 +256,7 @@ Fabbing gifts.  Glass beads.
 What else does Tk do?
   no immedaite use, but the chance of a big win; i.e. random creativeity or 20% time.
   something with the fabber?
+    molecular computation?
   something with junk?
 
   reveal feral seeding
