@@ -41,15 +41,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="701.99727"
-     inkscape:cy="1608.8036"
+     inkscape:cx="657.99727"
+     inkscape:cy="398.8036"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
+     inkscape:window-width="968"
      inkscape:window-height="774"
      inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-y="380"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      inkscape:snap-grids="false"
@@ -6064,5 +6064,22 @@
          sodipodi:role="line"
          x="576.36346"
          y="1610.2643">half-spear</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff965d;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 779.78161,1584.8525 -67.56321,22.295"
+       id="path4227-2-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="784.36346"
+       y="1602.2643"
+       id="text5286"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5288"
+         sodipodi:role="line"
+         x="784.36346"
+         y="1602.2643">bar on door / forcefield door</tspan></text>
   </g>
 </svg>
