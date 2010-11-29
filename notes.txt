@@ -222,6 +222,7 @@ once you are no longer bound, examine the wobbly floor tile.
 now flee.
 > Nudge whoever's nudging you back to get it to stop.
 both: probably a good idea to get out of there now, you never know when the humans will be back.
+-P23
 
 ---
 ---
@@ -271,6 +272,7 @@ hunger (point to mouth); regugitation
 
 leave subject alone for moments
   "waaaaaaaah"; how did it even learn all that stuff?
+  oh great now it loves and hates Jz
 jam plate in door
 
 ---
