@@ -223,7 +223,6 @@ now flee.
 > Nudge whoever's nudging you back to get it to stop.
 both: probably a good idea to get out of there now, you never know when the humans will be back.
 -P23
->Attempt to comfort the subject
 
 ---
 ---
