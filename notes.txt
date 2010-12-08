@@ -223,6 +223,10 @@ now flee.
 > Nudge whoever's nudging you back to get it to stop.
 both: probably a good idea to get out of there now, you never know when the humans will be back.
 -P23
+[[Shewson: Pick up red thing and/or blue thing]] and take it/them back to your friend so you can look together.
+Shewson: Suddenly realize you miss timmy, fill the void with your female friend :3
+J: Examine tunnel.
+Camera: show us a "meanwhile" slide of what T is doing now?
 
 ---
 ---
@@ -268,6 +272,7 @@ block door(s) from inside?
 iterations?  Fourth maybe?
 North is darkest
 Instruments needs light?
+Shewson leave that wire behind after 288?
 
 ---
 ---
@@ -275,3 +280,9 @@ Instruments needs light?
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
 
 You still have cached fragments of the database that you were looking at when the subject and its human were damaging the contents of the spacecraft and you were assessing the damage.
+
+---
+
+289
+
+One of these is a bag, but you don't know what the other thing is.  You can still hear the other dragon above, so that's ok.
