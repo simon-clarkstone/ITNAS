@@ -227,9 +227,6 @@ Shewson: Suddenly realize you miss timmy, fill the void with your female friend 
 J: Examine tunnel.
 Camera: show us a "meanwhile" slide of what T is doing now?
 > After that, does the tunnel lead anywhere interesting?
->Is there anything wrong with the back of your head, or do you know?
->Can you tell what animal the blood belongs to?
-Do any of your outlets resemble biological orifices?
 
 ---
 ---
@@ -282,19 +279,3 @@ Recirculating water (taste of blood)
 ---
 
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
-
-
-
-[QUOTE=crepuscularDissembler;4467996]>Can you tell what animal the blood belongs to?[/QUOTE]
-
-It is from your own species, presumably from you and LN-4-7-22.
-
-[QUOTE=Cardinal Ximenez;4475934][QUOTE]
-LN-4-7-22 is trying to stick a plaster to the back of your head. It imitating you makes sense, but why is it trying to stick one there?[/QUOTE]
-Do any of your outlets resemble biological orifices?[/QUOTE]
-
-Not really.  The data socket goes through your skull, but its outer surface is not recessed below the surface of your skin.  Yesterday LN-4-7-22 interpreted it as an object attached to the back of your head, and you (or rather the VMS to which you had given control) had to dissuaded LN from trying to remove it.
-
-[QUOTE=SonicLover;4435536]>Is there anything wrong with the back of your head, or do you know?[/QUOTE]
-
-You feel to find out what it is perceiving there.  You feel a scar on the back of your head next to the data socket, and a small hole in your skull.  It has been sealed very well, better than is possible with the tech level of the humans here.  Sensations from that area of your skin are edited out of your perceptions precisely enough that you did not notice until now.  You don't know where it came from but it feels several days old, not as new as your other ones.  Its age is paradoxical as you inserted and removed cables several times in the days before you left Su-x8-5 but your hand did not feel it then.
