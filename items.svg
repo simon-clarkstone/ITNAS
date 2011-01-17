@@ -6411,5 +6411,22 @@
          x="950"
          sodipodi:role="line"
          id="tspan4190">hypospray</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#c8ab37;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 520,1650 10,-5 -10,-5 10,-5 -10,-5 10,-5 -10,-5"
+       id="path3962"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="538.45258"
+       y="1641.5474"
+       id="text10088-1"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan10090-7"
+         sodipodi:role="line"
+         x="538.45258"
+         y="1641.5474">moss</tspan></text>
   </g>
 </svg>
