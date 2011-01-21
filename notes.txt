@@ -226,9 +226,8 @@ both: probably a good idea to get out of there now, you never know when the huma
 Shewson: Suddenly realize you miss timmy, fill the void with your female friend :3
 J: Examine tunnel.
 Camera: show us a "meanwhile" slide of what T is doing now?
-> Examine how the bars attach to the tunnel. If your tail is suitable for manipulating such fastenings, turn tail-upwards and attempt to dislodge/unfasten one of the bars.
-Alternatively, if the bars are rusted/structurally compromised and your tail is strong enough to just pull one apart, do that. However, you'll still need at least one of the bars intact in order to climb up the tunnel.
 -P24
+attempt to break through.
 
 ---
 ---
