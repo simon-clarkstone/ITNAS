@@ -227,6 +227,8 @@ Shewson: Suddenly realize you miss timmy, fill the void with your female friend 
 J: Examine tunnel.
 Camera: show us a "meanwhile" slide of what T is doing now?
 -P24
+>well, pull it up and see what it is.
+Shewson> It seems as though she was succesful in climbing, why not check on her?
 
 ---
 ---
@@ -274,8 +276,40 @@ North is darkest
 Instruments needs light?
 Shewson leave that wire behind after 288?
 Recirculating water (taste of blood)
+Sh banging head on wall?
 
 ---
 ---
 
+[i]You could try praying but you aren't really qualified to write prayers.  Maybe try using something for general freedom from imprisonment.[/i]
 [i]Warning: diagram requires 3 dimensions for rendering.  The following two-dimensional rendering is an approximation; information loss may occur.[/i]
+
+
+
+
+[QUOTE=ShadoWKilleR;4559760]Shewson> It seems as though she was succesful in climbing, why not check on her?[/QUOTE]
+
+She has left you down here and hasn't helped you up.
+[i]No.  She never managed to get past the bars before.  She must have gone back down the tunnel again.[/i]
+You want to keep playing in the water, but you don't want her to leave you behind.
+[i]That is not likely to happen.  She has shown no sign of leaving you behind before.[/i]
+But she's got away already.
+
+[QUOTE=bhomer2;4557679]>well, pull it up and see what it is.[/QUOTE]
+
+
+LN-4-7-22 has retrieved a solar cell and battery that seem undamaged.  You expect that they were brought here by whoever brought the medical kit, the remote sensors, and the broken block of supercomputer.  You aren't sure how they got to the bottom of the pool, but it was probably being used in the shaft above and fell down.  The shaft is the only access to bright light that you have found yet.  You were unable to move the bars in it with the forces you could exert without risk of strain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
