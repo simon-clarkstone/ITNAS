@@ -316,13 +316,13 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 
 [QUOTE=Barralax;4639417]You only viewed the hole in three dimensions. Perhaps you managed to use a fourth or fifth to get through?[/QUOTE]
-Matter cannot stably remaining outside of a subuniverse, never mind staying partly inside and partly outside a subuniverse for several seconds without damage.  The difficulty of re-entering without colliding with the air already present seems minor in comprison.
+Objects cannot stably remain outside of a subuniverse, never mind staying partly inside and partly outside a subuniverse for several seconds without damage.  The difficulty of re-entering without colliding with the air already present is minor in comprison.
 
 [QUOTE=ShadoWKilleR;4633562]> Try to use LN-4-7-22's undamaged sensors to scan what is ahead.[/QUOTE]
-From Vcypcsua's assesment earlier you doubt that LN-4-7-22 is able to use them well.  Without practice the REMS sensors will not be able to detect very much, and without further practice in co-ordination of REMS and REMI active scanning does not become possible.  You check your logs and find that in addition to everyday usage you have spent about 5/60 of your life on REMS and REMI exercises, mostly in the last three years.
+From Vcypcsua's assesment earlier you doubt that LN-4-7-22 has never been able to use them much, if at all.  The consequent lack of practice of using REMS means its sensors will ineffective, and lack of practice in co-ordination of REMS and REMI means it will be incapable of active scanning.  You check your logs and find that in addition to everyday usage you have spent about 5/60 of your life on REMS and REMI exercises, mostly in the last three years.
 
 [QUOTE=ShadoWKilleR;4633562]And if this works we may be able to use LN-4-7-22's telekinesis to remove the bars :D[/QUOTE]
-The same applies here, though you have not had as much practice with RFI as with REMS and REMI.  Even for experts, pushing things directly with hands can exert much more force than telekinesis can.
+The same applies again, though you have not had as much practice with RFI as with REMS and REMI.  Even for experts, telekinesis cannot exert as much force as pushing things directly using ones hands can.
 
 [QUOTE=ShadoWKilleR;4694343]POV change> LN-4-7-22> Continue forward.[/QUOTE]
 {pic}
@@ -340,7 +340,7 @@ Well it's too late for that now.
 
 You smell and taste the wall to try to identify what it is made of.
 
-It's a pseudometal (on the outside at least), which is from a tech level much higher than you expect to find here.  That makes the idea of the gravity being artificial seem even more plausible.
+It's a pseudometal (on the outside at least), which is from a tech level much higher than you expect to find here.
 
 [QUOTE=Barralax;4639417]Perhaps there is another being that is injured, farther upstream? Or perhaps the flow is cyclical?[/QUOTE]
 You could test this easily enough using the DNA sequencers if you get back to the medical kit.
@@ -367,13 +367,11 @@ Not very likely.  There have never been any actuators in the design for doing th
 [QUOTE=Kavukamari;4640452]It would explain the gravity anomaly[/QUOTE]
 The rate of conversion between gravitational and kinetic energy in the vertical column of space that your accellerometers that measured the anomoly were in at that point in time is probably the greatest for any of your accelerometers for any time since you woke up.  The fact that only such an extreme produced any measurable effect implies a power limit on the gravitational field that you are in.
 
-Maybe what appears to be gravity is in fact an application of RFI; your technology is not capable of such evenly-distributed telekinesis as you have observed, but that is limit of engineering rather than a physical limit.
+Maybe what appears to be gravity is in fact an application of RFI; your technology is not capable of such evenly-distributed telekinesis as you have observed, but that is limit of engineering rather than a physical limit.  If you were on the surface of the planet that you thought you were on, or any of its parallel versions, such artificial gravity would not be necessary.
 
 {pic}
 
 It is sufficiently hypothetical and similar to gravity that you will not draw it on every diagram.
-
-If you were on the planet that you thought you were, artificial gravity would nto be necessary.  That would explain the need for water recirculation.
 
 [QUOTE=Kavukamari;4640452]and the passing through of the wall.[/QUOTE]
 
