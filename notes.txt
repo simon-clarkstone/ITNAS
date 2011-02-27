@@ -230,12 +230,10 @@ Camera: show us a "meanwhile" slide of what T is doing now?
 A rope like structure should do the trick, such as a VINE, or heck, a rope!
 You probably gooed the ceiling by passing through it (i.e. turned it soft and elastic).
 > Now run, run down the +D2 corridor! Or walk. There's no hurry.
-> Try to use LN-4-7-22's undamaged sensors to scan what is ahead.
-And if this works we may be able to use LN-4-7-22's telekinesis to remove the bars 
 Jzaprvlt> Follow the subject, he could not protect itself without a weapon.
 LN-4-7-22> POV change, why are you going forward?
 He obviously has some form of incentive to go forward.
-Jz: You only viewed the hole in three dimensions. Perhaps you managed to use a fourth or fifth to get through? Perhaps there is another being that is injured, farther upstream? Or perhaps the flow is cyclical?
+[[Jz: You only viewed the hole in three dimensions. Perhaps you managed to use a fourth or fifth to get through?]] Perhaps there is another being that is injured, farther upstream? Or perhaps the flow is cyclical?
 Shewson: Follow your friend some more, she seems to know what's going on.
 > I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is. It would explain the gravity anomaly and the passing through of the wall. About the attacks, maybe one of your kind whom you do not know is helping the humans out. and about the blood, maybe when the humans were done with their "help" they attempted to destroy it because they thought it was dangerous, if this is true, it might still be alive enough to hide in the tunnels and try to escape.
 Theoretically of course.
@@ -244,10 +242,8 @@ Jz: Are you sure you've actually left your original location? Could this all be 
 Jzaprvlt> Follow the subject, he could not protect itself without a weapon.
 POV change> LN-4-7-22> Continue forward.
 -P25
-> Shewson: Make sure you use your tail to feel in front of you so that you don't bump into anything that might hurt you. But keep going.
 > Jz: Since it is unlikely that you could fit back through that gap again, go forwards instead.
 >Jz: just make sure shewson doesn't hurt himself.
->Shewson: onward to adventure!
 
 ---
 ---
@@ -307,58 +303,33 @@ maybe it is an arena after all?
 ---
 
 [i]You could try praying but you aren't really qualified to write prayers.  Maybe try using something for general freedom from imprisonment.[/i]
--
+
+---
+
 Vc: You were not available to talk to when I discovered this, and were later available for too short a time for me to contact you.
 
+---
 
+[QUOTE=ShadoWKilleR;4694343]Jzaprvlt> Follow the subject, he could not protect itself without a weapon.[/QUOTE]
+Actually it has the half-spear that it took from you, but you still ought to follow it.
 
-
-
-
-[QUOTE=Barralax;4639417]You only viewed the hole in three dimensions. Perhaps you managed to use a fourth or fifth to get through?[/QUOTE]
-Objects cannot stably remain outside of a subuniverse, never mind staying partly inside and partly outside a subuniverse for several seconds without damage.  The difficulty of re-entering without colliding with the air already present is minor in comprison.
-
-[QUOTE=ShadoWKilleR;4633562]> Try to use LN-4-7-22's undamaged sensors to scan what is ahead.[/QUOTE]
-From Vcypcsua's assesment earlier you doubt that LN-4-7-22 has never been able to use them much, if at all.  The consequent lack of practice of using REMS means its sensors will ineffective, and lack of practice in co-ordination of REMS and REMI means it will be incapable of active scanning.  You check your logs and find that in addition to everyday usage you have spent about 5/60 of your life on REMS and REMI exercises, mostly in the last three years.
-
-[QUOTE=ShadoWKilleR;4633562]And if this works we may be able to use LN-4-7-22's telekinesis to remove the bars :D[/QUOTE]
-The same applies again, though you have not had as much practice with RFI as with REMS and REMI.  Even for experts, telekinesis cannot exert as much force as pushing things directly using ones hands can.
-
-[QUOTE=Kavukamari;4726674]>Shewson: onward to adventure![/QUOTE]
-{pic311}
-
-Ouch.  This wall feels like glass too.  The wall sounded hollow when you walked into it.
-
-[QUOTE=orngjce223;4703074]> Shewson: Make sure you use your tail to feel in front of you so that you don't bump into anything that might hurt you. But keep going.[/QUOTE]
-
-Well it's too late for that now.
-
-{pic}
-
-You like how it tastes all tingly.
-[i]You should not lick that wall for long periods. It may be causing some damage to the inside of your mouth.[/i]
-Oh, it's like that other bit of metal you have back at home.  Maybe you should have drawn it with the grey instead of the blue.  It's completely black here so you can't see what colour it really is.
-
-[QUOTE=Kavukamari;4726674]>Jz: just make sure shewson doesn't hurt himself.[/QUOTE]
 {pic}
 
 You smell and taste the wall to try to identify what it is made of.
 
 It's a pseudometal (on the outside at least), which is from a tech level much higher than you expect to find here.
 
+[QUOTE=almostCanine;4641546]Jz: Are you sure you've actually left your original location?  Could this all be some sort of training exercise in virtual reality?  Some sort of Total Recall/eXistenZ/The Matrix thing.  If so, having to warp the fabric of space to make progress suggests you're failing.[/QUOTE]
+
+Some intersting hypotheses are starting to form in your head.
+
 [QUOTE=Barralax;4639417]Perhaps there is another being that is injured, farther upstream? Or perhaps the flow is cyclical?[/QUOTE]
 You could test this easily enough using the DNA sequencers if you get back to the medical kit.
-
-Some extreme hypotheses are starting to form in your head.
-
-***
 
 [QUOTE=CasMat;3770315]>Mr. Jones: Recount previous encounters with dragons with gusto to the archers.[/QUOTE]
 {pic: left ???, right mr jones etc, middle rects containing "dragon"s and "robot"s}
 
-You are faring well in the debate.  Your opponent's key rhetorical point of "we have just driven a wolf from our back door by letting a bear in through the front" is laughably mixed.  It will all become moot if your new allies decide to force the issue either way though.
-
----
+You are faring well in the debate.  Your opponent just tried to use the metaphor "we have just driven a wolf from our back door by letting a bear in through the front" which is laughably mixed in this situation.  It will all become moot if your new allies decide to force the issue either way though.
 
 [ddsddsdasdsasdada]
 {pic}
@@ -380,6 +351,10 @@ It is sufficiently hypothetical and similar to gravity that you will not draw it
 [QUOTE=Kavukamari;4640452]and the passing through of the wall.[/QUOTE]
 
 As for what happened to the ceiling when you might have passed through it, you are not so sure.  It's too dark for you to tell if it moved up to let you under, but that isn't expected behaviour either for a ceiling built by these humans.
+
+
+
+
 
 
 
