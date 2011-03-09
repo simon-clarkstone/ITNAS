@@ -153,7 +153,6 @@ Others: Uhoh! Mr. Jones forgot to take his medication again!
 Mr.Jones: YOU GOTTA BELIEVE ME, ITS TRUE!
 Timmy: Run away now that Mr. Jones is distracted!
 >If you can't find a better place to sleep, dig a hole in the side of a hill.
->Mr. Jones: Recount previous encounters with dragons with gusto to the archers. 
 >Shewson: Try to teach the new friend GEROMY to talk. Maybe with body language if you don't know how to talk much yourself.*
 Jay(modified): You need to learn how to talk to your new friend, see if it can teach you how
 Jz(unmodified): Compare this mission to other missions idly, log mistakes and successes to improve future missions. Review what the point of this mission is.
@@ -233,23 +232,14 @@ You probably gooed the ceiling by passing through it (i.e. turned it soft and el
 Jzaprvlt> Follow the subject, he could not protect itself without a weapon.
 LN-4-7-22> POV change, why are you going forward?
 He obviously has some form of incentive to go forward.
-[[Jz: You only viewed the hole in three dimensions. Perhaps you managed to use a fourth or fifth to get through?]] Perhaps there is another being that is injured, farther upstream? Or perhaps the flow is cyclical?
 Shewson: Follow your friend some more, she seems to know what's going on.
 > I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is. It would explain the gravity anomaly and the passing through of the wall. About the attacks, maybe one of your kind whom you do not know is helping the humans out. and about the blood, maybe when the humans were done with their "help" they attempted to destroy it because they thought it was dangerous, if this is true, it might still be alive enough to hide in the tunnels and try to escape.
 Theoretically of course.
 >Jay: At least attempt some form of communication, or try to learn the subject's as fast as you can. Communication is important, and is imperative if any courtship- I mean cooperation is to take place.
-Jz: Are you sure you've actually left your original location? Could this all be some sort of training exercise in virtual reality? Some sort of Total Recall/eXistenZ/The Matrix thing. If so, having to warp the fabric of space to make progress suggests you're failing.
-Jzaprvlt> Follow the subject, he could not protect itself without a weapon.
 POV change> LN-4-7-22> Continue forward.
 -P25
 > Jz: Since it is unlikely that you could fit back through that gap again, go forwards instead.
 >Jz: just make sure shewson doesn't hurt himself.
-Hm. Odd how Shewson suddenly became more detailed when he hit the wall.
-Attempt to feel out the temperature of the blue thing.
-Shewson: be more detailed again :V
-Jz: Briefly consider that Shewson may be able to unknowingly warp reality slightly (or drastically) with his willpower
-Both: Remember you have wings.
-Jz: Spend 10 minutes contemplating the apparent faults in reality, scars that elude memory, and the presence of EMP wielding robots and come up with various consequent conspiracy theories while Shewson licks a wall.
 
 ---
 ---
@@ -315,28 +305,6 @@ maybe it is an arena after all?
 Vc: You were not available to talk to when I discovered this, and were later available for too short a time for me to contact you.
 
 ---
-[QUOTE=SonicLover;4751537]Hm.  Odd how Shewson suddenly became more detailed when he hit the wall.[/QUOTE]
-You drew more of you in because you are really big in the picture.
-
-[QUOTE=ShadoWKilleR;4694343]Jzaprvlt> Follow the subject, he could not protect itself without a weapon.[/QUOTE]
-Actually it has the half-spear that it took from you, but you still ought to follow it.
-
-[QUOTE=Isoraqathedh;4754096]Attempt to feel out the temperature of the blue thing.[/QUOTE]
-{pic}
-
-It's close to ambient temperature, maybe slightly above; you can't tell precisely because it is a good conductor of heat.  From that and the taste you can tell that it's a pseudometal, which is from a tech level much higher than you expect to find here.  Brute force will surely be futile against it; even cutting through the adjacent rock would be easier.  You try to use REMS to find out what is on the other side, but then remember that you have lost that sense.
-
-[QUOTE=almostCanine;4641546]Jz: Are you sure you've actually left your original location?  Could this all be some sort of training exercise in virtual reality?  Some sort of Total Recall/eXistenZ/The Matrix thing.  If so, having to warp the fabric of space to make progress suggests you're failing.[/QUOTE]
-Some intersting hypotheses are starting to form in your mind.
-
-[QUOTE=Barralax;4639417]Perhaps there is another being that is injured, farther upstream? Or perhaps the flow is cyclical?[/QUOTE]
-You could test this easily enough using the DNA sequencers, if you can get back to the medical kit.
-
-[QUOTE=CasMat;3770315]>Mr. Jones: Recount previous encounters with dragons with gusto to the archers.[/QUOTE]
-{pic: left ???, right mr jones etc, middle rects containing "dragon"s and "robot"s}
-
-You are faring well in the debate.  Your opponent just tried to use the laughable metaphor "we have just driven a wolf from our back door by letting a bear in through the front".  Whatever you humans decide will become moot if your new potential allies do not give you a choice.  You could not prevent them from leaving if they wanted too, or from defeating you if they attacked.
-
 
 [ddsddsdasdsasdada]
 {pic}
@@ -344,7 +312,6 @@ You are faring well in the debate.  Your opponent just tried to use the laughabl
 You bite your tongue to let a little blood from it then wash your mouth out, sampling the water upstream from you before and a few moments after.  The flow is indeed cyclic.  This place is looking suspiciously like a closed system.
 
 [QUOTE=Kavukamari;4640452]> I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is.[/QUOTE]
-Not very likely.  There have never been any actuators in the design for doing that.
 
 [QUOTE=Kavukamari;4640452]It would explain the gravity anomaly[/QUOTE]
 The rate of conversion between gravitational and kinetic energy in the vertical column of space that your accellerometers that measured the anomoly were in at that point in time is probably the greatest for any of your accelerometers for any time since you woke up.  The fact that only such an extreme produced any measurable effect implies a power limit on the gravitational field that you are in.
