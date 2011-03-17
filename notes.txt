@@ -309,7 +309,7 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 [QUOTE=orngjce223;4807073]> Is there a known material with that property?[/QUOTE]
 
-Not that you know of, in your brain or in the database fragments that you have.  You would have automatically tried to look it up on the net, but you have finished configuring yourself not to do so.  The material is almost certainly made by someone rather than being natural, and the humans have not shown the ability to make anything like it.
+Not that you know of, in your brain or in the database fragments that you have.  You would have automatically tried to look it up on the net, but you have now configured yourself not to do so.  The material is almost certainly made by someone rather than being natural, and the humans have not shown the ability to make anything like it.
 
 [QUOTE=Isoraqathedh;4808307]See if you can break a piece of soft-rock-hard-none[41] (surrounding rock optional) to play with. Or make Shewson play with it.
 
@@ -320,28 +320,34 @@ Not that you know of, in your brain or in the database fragments that you have. 
 [I]x[/I] = Once upon a time there were three shrimps. Their names are[/QUOTE]
 Intangible shafts, structure, and cables would be very handy in building some 3D objects.
 
-Cutting some off won't be easy though.  The first thing you consider is simply isolating a tangible part by surrounding it with other material, but a thought experiment makes that seem unlikely: intangible parts remember their form and position relative to the tangible material, so when a piece of tangible material is partitioned then if the parts could be moved apart which tangible section would the intangible material remain attached to?
+Cutting some off won't be easy though.  The first thing you consider is simply isolating a tangible part by surrounding it with other material, but a thought experiment makes that seem unlikely: intangible parts remember their form and position relative to the tangible material, so when a piece of tangible material is partitioned then if the parts could be moved apart it is not clear which tangible section would the intangible material remain attached to.
 
 {pic}
 
 You try it to be certain; it doesn't work.
 
-You consider other possibilities, many impractical with your current lack of equipment:
+You consider other possibilities, many impractical with your current (lack of) equipment:
 [list][*]High-concentration telekinesis, if you can get the tools for it (your own telekinesis wouldn't be strong enough even if you still had it).  Too much telekinetic force could just induce intangibility though.
 [*]Ionising radiation or ultra-fine REMI.
 [*]Laser or other heat-based cutting.
 [*]Chemical or other nano-scale attack.
-[*]If there is a delay in becoming intangible, then applying a large pressure for a short period of time.
-[*]Intangibility is apparently induced by pressure rather than absolute force, so try exerting a large stress on the connection between a part of the material and the rest, but not high pressure at any point.  That would need the insetion of an object which's surface area is high compared to the minimal area that can enclose it.
+[*](If there is a delay in becoming intangible) applying a large pressure for a short period of time.
+[*]Intangibility is apparently induced by pressure rather than absolute force, so: exerting a large stress on the connection between a part of the material and the rest, but not high pressure at any point.  That would need the insetion of an object which's surface area is high compared to the minimal area that can enclose it.
 [*]Something that isn't a way to cut normal matter, e.g. removing a power supply.
-[*]If the intangible parts are weaking in themselves or their connections, that could be exploited.
-[*]Some way of preventing the intangibility, though it might be just too strong for you to break anyway.[/list]
+[*]Some way of preventing the intangibility, though the material might be just too strong for you to break anyway.[/list]
+If the intangible parts are weakened in themselves or their connections, that could be exploited.
 
-[QUOTE=Darkscale;4808207]Make sure Shewson isn't getting himself into trouble, then go back and DNA test water with the medkit, then test yourself and compare.[/QUOTE]
+[QUOTE=Darkscale;4808207]Make sure Shewson isn't getting himself into trouble, then go back and DNA test water with the medkit[/QUOTE]
 
 {pic}
 
 You bite your tongue to let a little blood from it then wash your mouth out, sampling the water upstream from you before and a few moments after.  The flow is indeed cyclic.  This place is looking suspiciously like a closed system.
+
+[QUOTE=Darkscale;4808207]then test yourself[/quote]
+Why would you need to do that?  Your DNA is unlikely to have changed.
+
+[QUOTE=Darkscale;4808207]and compare.[/QUOTE]
+
 
 [QUOTE=Kavukamari;4640452]> I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is.[/QUOTE]
 
