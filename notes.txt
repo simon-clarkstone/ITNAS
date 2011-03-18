@@ -241,6 +241,8 @@ POV change> LN-4-7-22> Continue forward.
 > Jz: Since it is unlikely that you could fit back through that gap again, go forwards instead.
 >Jz: just make sure shewson doesn't hurt himself.
 Mr. Jones: Give convenient exposition about new allies.
+Make sure Shewson isn't getting himself into trouble, then go back and DNA test water with the medkit, then test yourself and compare.
+Thread: Moan like a zombie and rise from the dead.
 
 ---
 ---
@@ -306,36 +308,6 @@ maybe it is an arena after all?
 Vc: You were not available to talk to when I discovered this, and were later available for too short a time for me to contact you.
 
 ---
-
-[QUOTE=orngjce223;4807073]> Is there a known material with that property?[/QUOTE]
-
-Not that you know of, in your brain or in the database fragments that you have.  You would have automatically tried to look it up on the net, but you have now configured yourself not to do so.  The material is almost certainly made by someone rather than being natural, and the humans have not shown the ability to make anything like it.
-
-[QUOTE=Isoraqathedh;4808307]See if you can break a piece of soft-rock-hard-none[41] (surrounding rock optional) to play with. Or make Shewson play with it.
-
-----
-
-[41] I'm gonna call that thing SRHN. Serhen. [I]x[/I] Ha, ha, ha.
-
-[I]x[/I] = Once upon a time there were three shrimps. Their names are[/QUOTE]
-Intangible shafts, structure, and cables would be very handy in building some 3D objects.
-
-Cutting some off won't be easy though.  The first thing you consider is simply isolating a tangible part by surrounding it with other material, but a thought experiment makes that seem unlikely: intangible parts remember their form and position relative to the tangible material, so when a piece of tangible material is partitioned then if the parts could be moved apart it is not clear which tangible section would the intangible material remain attached to.
-
-{pic}
-
-You try it to be certain; it doesn't work.
-
-You consider other possibilities, many impractical with your current (lack of) equipment:
-[list][*]High-concentration telekinesis, if you can get the tools for it (your own telekinesis wouldn't be strong enough even if you still had it).  Too much telekinetic force could just induce intangibility though.
-[*]Ionising radiation or ultra-fine REMI.
-[*]Laser or other heat-based cutting.
-[*]Chemical or other nano-scale attack.
-[*](If there is a delay in becoming intangible) applying a large pressure for a short period of time.
-[*]Intangibility is apparently induced by pressure rather than absolute force, so: exerting a large stress on the connection between a part of the material and the rest, but not high pressure at any point.  That would need the insetion of an object which's surface area is high compared to the minimal area that can enclose it.
-[*]Something that isn't a way to cut normal matter, e.g. removing a power supply.
-[*]Some way of preventing the intangibility, though the material might be just too strong for you to break anyway.[/list]
-If the intangible parts are weakened in themselves or their connections, that could be exploited.
 
 [QUOTE=Darkscale;4808207]Make sure Shewson isn't getting himself into trouble, then go back and DNA test water with the medkit[/QUOTE]
 
