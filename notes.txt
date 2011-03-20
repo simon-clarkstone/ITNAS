@@ -241,8 +241,9 @@ POV change> LN-4-7-22> Continue forward.
 > Jz: Since it is unlikely that you could fit back through that gap again, go forwards instead.
 >Jz: just make sure shewson doesn't hurt himself.
 Mr. Jones: Give convenient exposition about new allies.
-Make sure Shewson isn't getting himself into trouble, then go back and DNA test water with the medkit, then test yourself and compare.
 Thread: Moan like a zombie and rise from the dead.
+...say, how fast do your cut-off organs regrow? 10^5 s? 10^6 s? A week? Ten years?
+> Shewson: See what your friend is doing.
 
 ---
 ---
@@ -309,22 +310,10 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 ---
 
-[QUOTE=Darkscale;4808207]Make sure Shewson isn't getting himself into trouble, then go back and DNA test water with the medkit[/QUOTE]
-
-{pic}
-
-You bite your tongue to let a little blood from it then wash your mouth out, sampling the water upstream from you before and a few moments after.  The flow is indeed cyclic.  This place is looking suspiciously like a closed system.
-
-[QUOTE=Darkscale;4808207]then test yourself[/quote]
-Why would you need to do that?  Your DNA is unlikely to have changed.
-
-[QUOTE=Darkscale;4808207]and compare.[/QUOTE]
-
-
 [QUOTE=Kavukamari;4640452]> I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is.[/QUOTE]
 
 [QUOTE=Kavukamari;4640452]It would explain the gravity anomaly[/QUOTE]
-The rate of conversion between gravitational and kinetic energy in the vertical column of space that your accellerometers that measured the anomoly were in at that point in time is probably the greatest for any of your accelerometers for any time since you woke up.  The fact that only such an extreme produced any measurable effect implies a power limit on the gravitational field that you are in.
+The rate of conversion between gravitational and kinetic energy in the vertical column of space that your accellerometers that measured the anomoly were in at that point in time is probably the greatest for any of your accelerometers at any time since you regained consciousness.  The fact that only such an extreme produced any measurable effect implies a power limit on the gravitational field that you are in.
 
 Maybe what appears to be gravity is in fact an application of RFI; your technology is not capable of such evenly-distributed telekinesis as you have observed, but that is limit of engineering rather than a physical limit.  If you were on the surface of the planet that you thought you were on, or any of its parallel versions, such artificial gravity would not be necessary.
 
