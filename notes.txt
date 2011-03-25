@@ -249,6 +249,7 @@ Thread: Moan like a zombie and rise from the dead.
 Jz: See if you can't see what's on the other side of that grate.
 Shewson: Comically be in the way. 
 -P26
+> What's with that aqua hatch-marks? And can you open the door? (I'm pretty sure that a section of wall with a thin rectangle surrounding it is a door, and that section of wall becomes dotted when open.)
 
 ---
 ---
@@ -315,14 +316,17 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 ---
 
-[QUOTE=Kavukamari;4640452]> I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is. It would explain the gravity anomaly[/QUOTE]
 Though LN-4-7-22 has not been designed with any actuators for that it could have had some added, but you have no idea if such things are even possible.  Measuring "willpower" is a difficult problem in normal minds and even harder in the subject's case, requiring large amounts of sensors and computational equipment.  Anyway, in that specific situation the weakened gravity would have been the opposite of what the subject would have wanted, since you were accelerating it upwards and it would have automatically been trying to resist that.
 
+
+
+
+[QUOTE=Kavukamari;4640452]> I think maybe Shewson's willpower warps reality in small, subtle ways. assess how scientifically probable this is. It would explain the gravity anomaly[/QUOTE]
 From Vcypcsua's assessment, the subject probably has some (weak and unpracticed) telekinetic ability that is not well connected to most of the its brain, so maybe part of it activated that to try to pull the subject downwards.
 
-The rate of conversion between gravitational and kinetic energy in the vertical column of space that your accellerometers that measured the anomoly were in at that point in time is probably the greatest for any of your accelerometers at any time since you regained consciousness.  The fact that only such an extreme produced any measurable effect implies a power limit on the gravitational field that you are in.
+However such anomolies are also symptomatic of an RFI field reaching its power limit.  (The rate of conversion between gravitational and kinetic energy in the vertical column of space that your accellerometers that measured the anomoly were in at that point in time is probably the greatest for any of your accelerometers at any time since you regained consciousness.)
 
-Maybe what appears to be gravity is in fact an application of RFI; your technology is not capable of such evenly-distributed telekinesis as you have observed, but that is limit of engineering rather than a physical limit.  If you were on the surface of the planet that you thought you were on, or any of its parallel versions, such artificial gravity would not be necessary.
+Your technology is not capable of such an even telekinetic field as this one would have to be, but that is limit of engineering rather than a physical limit.
 
 {pic}
 
@@ -332,13 +336,21 @@ It is sufficiently hypothetical and similar to gravity that you will not draw it
 That seems to have been explained already as just a property of the material.
 
 [QUOTE=Isoraqathedh;4844705]...say, how fast do your cut-off organs regrow? 10^5 s? 10^6 s? A week? Ten years?[/QUOTE]
-Your REMS, REMI, and RFI (telekinesis) nodes will take a couple of weeks to grow back, but you will need a year or two to regain your original skill with them.
+Your REMS/REMI and RFI nodes will take weeks to grow back, but you will need a year or two to regain your original skill with them.
 
-[QUOTE=Kavukamari;4850868]>Jz: if you don't think there is anything else useful in this place, you could try to find the exit, maybe there is more of that trans-tangible stuff on the walls that is blocking an exit?
+[QUOTE=Kavukamari;4850868]>Jz: if you don't think there is anything else useful in this place, you could try to find the exit, maybe there is more of that trans-tangible stuff on the walls that is blocking an exit?[/QUOTE]
+There is a large amount of wall that you would need to check, and the water looping suggests you are quite possibly not near where you last had contact with civilisation, so you would not be seen just by going outside.  You should try to find another way of signalling 
 
->Shewson: accidentally find an exit[/QUOTE]
+[QUOTE=Kavukamari;4850868]>Shewson: accidentally find an exit[/QUOTE]
 
+[QUOTE=Isoraqathedh;4857128]> What's with that aqua hatch-marks?[/QUOTE]
+That is where you felt a stack of logs, but you heard the subject disturb them a while back while it wa retrieving the medical kit and remote sensors, so they probably aren't in that position any more.
 
+[QUOTE=Isoraqathedh;4857128]And can you open the door? (I'm pretty sure that a section of wall with a thin rectangle surrounding it is a door, and that section of wall becomes dotted when open.)[/QUOTE]
+
+{pic}
+
+The door is (predictably) locked.
 
 
 
