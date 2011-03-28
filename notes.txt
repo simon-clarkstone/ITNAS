@@ -242,11 +242,10 @@ POV change> LN-4-7-22> Continue forward.
 >Jz: just make sure shewson doesn't hurt himself.
 Mr. Jones: Give convenient exposition about new allies.
 Thread: Moan like a zombie and rise from the dead.
-> Shewson: See what your friend is doing.
 >Shewson: accidentally find an exit 
-Jz: See if you can't see what's on the other side of that grate.
 Shewson: Comically be in the way. 
 -P26
+Shewson: Wonder what the little things your friend is playing with are.
 
 ---
 ---
@@ -301,6 +300,8 @@ Sh banging head on wall?
 to east: ceiling gets low and water goes down grate?
 (searchers) find dead Jz?
 maybe it is an arena after all?
+not zero gravity, *low* (light alt-Earth)
+  hence the robots for Su-4-7
 
 ---
 ---
@@ -313,6 +314,7 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 ---
 
+The subject is poking you with the spear.  It seems to want you not to be in this part of the tunnel.
 
 
 
