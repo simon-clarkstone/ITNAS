@@ -246,6 +246,8 @@ Thread: Moan like a zombie and rise from the dead.
 Shewson: Comically be in the way. 
 -P26
 Shewson: Wonder what the little things your friend is playing with are.
+See if the broken block of computer can break the bars back in image 300. If it can we can rope up.
+Jz: Leave a remote sensor in your cell. When the humans take it, use it to reconnoiter more of their base.
 
 ---
 ---
@@ -314,7 +316,10 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 ---
 
+[QUOTE=beanjavert;4902529]Jz: Leave a remote sensor in your cell.  When the humans take it, use it to reconnoiter more of their base.[/QUOTE]
+{img: schematic: power data, sensors, data store, trasmitter, cross-subuniverse, internet, every damn citizen except Jz}
 
+Its internal power supply will have run out years ago, even it was left in standby mode.  If you could give it power, the information it would be gathering would be accessible over the internet, which you can't access at the moment.
 
 
 
