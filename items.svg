@@ -4708,10 +4708,10 @@
        y="1470"
        id="text4571"
        sodipodi:linespacing="125%"><tspan
-         id="tspan4573"
          sodipodi:role="line"
          x="560"
-         y="1470">(unassigned)</tspan></text>
+         y="1470"
+         id="tspan4420">sensors</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#008000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 549.06489,1990.8334 c -14.85566,-0.8834 -31.74913,4.5226 -48,1 -18.24713,-1.3148 -31.35922,-5.6609 -49,-7 -13.20753,-3.989 -27.69306,-1.082 -41.50258,-2.0671 -21.58102,1.0364 -43.83028,0.4978 -64.49742,6.0671 -20.2875,3.9344 -41.43701,1.1753 -62.1296,2 -33.95027,-6.0004 -48.06616,-0.3783 -72.8704,0 -18.80509,-5.2297 -38.10524,1.8324 -57.66908,1 -16.64996,-0.3396 -33.20543,-4.1564 -49.33092,-6 -17.231698,-3.0653 -35.016257,4.2536 -52.899338,5 -12.421873,0.5371 -24.628447,-0.5085 -36.754724,-3.0229"
