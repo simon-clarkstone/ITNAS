@@ -2243,6 +2243,12 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3199" /></text>
+    <path
+       style="fill:none;stroke:#80ff00;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 219.4991,1792.2033 c 2.59341,-0.01 4.90525,-2.193 9.70752,-3.4067 3.977,-1.6317 2.27132,0.5087 5.52022,-0.4317 4.60056,-2.4503 7.79197,-2.8525 12.69001,-2.7389 1.26379,-0.01 4.38607,-1.4593 4.38269,0.3156 -0.70663,1.795 -1.91425,3.3525 -2.73638,5.0991 -2.08451,3.7572 -5.12277,8.1029 -8.96097,10.5189 -2.25684,2.8943 -3.3601,5.6029 -5.64117,8.4764 -1.5772,1.1794 -1.47257,4.7482 -3.77173,4.5325 -1.93977,-1.3159 -2.20447,-3.8308 -3.74825,-5.4831 -3.41218,-3.2595 -0.0559,-1.7903 -2.90451,-4.6394 -1.75705,-2.6112 -3.98929,-5.5617 -5.75418,-8.1629 -0.68816,-1.0042 -2.01459,-4.4035 -2.12691,-3.051 -0.1123,1.3525 1.88239,-2.6219 3.3437,-1.0288 z"
+       id="path2942-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
