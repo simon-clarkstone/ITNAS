@@ -249,9 +249,8 @@ Shewson: Comically be in the way.
 Shewson: Wonder what the little things your friend is playing with are.
 See if the broken block of computer can break the bars back in image 300. If it can we can rope up.
 Jz: Investigate battery.
-Jz> are you not disappointed or sad at all that you lost your REMI and such?
-Shewson> throw away spear and lick the lady's wound and say sorry, its not nice to stab others, even if it was an accident :P
 Are you able to charge it using the battery pack?
+> What's in it then?
 
 ---
 ---
@@ -291,7 +290,8 @@ What else does Tk do?
   something with junk?
   do that instead of searching?
 Tk: be misc computational node?
-
+Help Vcypcsua
+  A subject corners itself (need a word for this)
   reveal feral seeding
 
 something under those logs?
