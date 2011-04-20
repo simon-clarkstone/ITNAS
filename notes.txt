@@ -251,9 +251,9 @@ See if the broken block of computer can break the bars back in image 300. If it 
 Ram robot by mistake.
 -P27
 >Tkhlpzyv: initiate rescue mission
-> Robot: Disable or drive off spacecraft
 Ship AI> Get hijacked.
 Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
+Sudden upwards thrust?
 
 ---
 ---
