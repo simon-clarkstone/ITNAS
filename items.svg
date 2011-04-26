@@ -7802,5 +7802,75 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <g
+       style="display:inline;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g5558"
+       transform="matrix(-8,0,0,-8,-2560,2960)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5542"
+         d="M -60,140 0,320 60,140 z"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path5544"
+         d="m -50,170 -20,20 40,40 60,0 40,-40 -20,-20 z"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       transform="matrix(-8,0,0,-8,-1440,2960)"
+       id="g5562"
+       style="stroke:#000000;stroke-width:0.75;display:inline;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M -60,140 0,320 60,140 z"
+         id="path5546"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-dasharray:none"
+         d="m -50,170 c 10,10 90,10 100,0 10,20 0,40 -20,60 -10,-10 -50,-10 -60,0 -20,-20 -30,-40 -20,-60 z"
+         id="path5548"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-dasharray:none"
+         d="m -60,190 c 24,-10 96,-10 120,0 -24,10 -96,10 -120,0 z"
+         id="path5550"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5552"
+         sodipodi:cx="125"
+         sodipodi:cy="95"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 140,95 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+         transform="translate(-70,95)" />
+      <path
+         d="m 140,95 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="95"
+         sodipodi:cx="125"
+         id="path5554"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc"
+         transform="translate(-180,95)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5556"
+         sodipodi:cx="80"
+         sodipodi:cy="210"
+         sodipodi:rx="5"
+         sodipodi:ry="5"
+         d="m 85,210 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+         transform="translate(-80,110)" />
+    </g>
   </g>
 </svg>
