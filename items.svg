@@ -7763,5 +7763,44 @@
            sodipodi:nodetypes="ccccc" />
       </g>
     </g>
+    <g
+       id="g6621">
+      <rect
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5393-7"
+         width="11"
+         height="20"
+         x="438"
+         y="574" />
+      <g
+         style="stroke-width:4.021451;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g2965-4-1"
+         transform="matrix(0,0.24866645,-0.24866645,0,649.94819,543.50642)">
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:4.021451;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 132.68208,818.15697 0,24.1287 12.06435,-12.06435 z"
+           id="rect10452-0-5-7"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="rect10452-1-7-5-4"
+           d="m 150.77861,818.15697 c 8.04291,8.0429 8.04291,16.0858 0,24.1287"
+           style="fill:none;stroke:#0000ff;stroke-width:4.021451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="rect10452-1-4-4-1-0"
+           d="m 170.88587,818.15697 c -8.0429,8.0429 -8.0429,16.0858 0,24.1287"
+           style="fill:none;stroke:#0000ff;stroke-width:4.021451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <path
+           id="rect10452-1-8-0-7-9"
+           style="fill:none;stroke:#0000ff;stroke-width:4.021451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 193.00385,818.15697 c -6.03219,8.0429 -6.03219,16.0858 0,24.1287 l -12.06436,0 c -6.03218,-8.0429 -6.03218,-16.0858 0,-24.1287 z"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
