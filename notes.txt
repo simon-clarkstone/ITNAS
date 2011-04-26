@@ -259,7 +259,7 @@ Sudden upwards thrust?
 
 what's with these robots?  can you analyse their intentions or whoever's behind them?
 human being carried by a robot: assess the situation
-
+(ditto and something about cackling evilly)
 
 ---
 ---
@@ -305,7 +305,9 @@ Sh banging head on wall?
 maybe it is an arena after all?
 not zero gravity, *low* (light alt-Earth)
   hence the robots for Su-4-7
-enough RFI focus for levitation but not for manipulation
+* enough RFI focus for levitation but not for manipulation
+* remote controlled by nats
+* no personal inter-su comms
 excess broth-cooks
 
 ---
@@ -321,12 +323,24 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 [[ what's with these robots?  can you analyse their intentions or whoever's behind them? ]]
 
-You search for knowlege of any civilisation assets that are like these robots, but find nothing; they are not part of your civilisation as far as you can tell.  They cannot be testing Jzaprvlt's capability to respond to a situation of this kind as they would have stopped now that Jz is overcome.  It could be a test of your response to this situation, but that just means you should act as if it were real.
+You search for knowlege of any assets that are like these robots, but find nothing;
+they are not part of your civilisation as far as you can tell.
+They cannot be testing Jzaprvlt's capability to respond to a situation of this kind
+as they would have stopped now that Jz is overcome.
+(It could be a test of your response to this situation,
+but that just means you should act as if it were real.)
 
 
-The robots seem to be using RFI-based propulsion, but the one that picked up the knife a few moments ago do so by touching it with a hand rather than using RFI, implying that they do not have such high-fidelity RFI technology as you do.
+The robots seem to be using RFI-based propulsion,
+but the one that picked up the knife did so by grasping it with a hand,
+implying that they do not have such tight-focus RFI abilities as you do.
+They have seen that Jzaprvlt is able to pick up small objects,
+so they could want to understand that ability and have therefore taken Jz.
 
-Given that they have taken Jzaprvlt away alive
+The reaction times of the individual units and the positional co-ordination between them
+is too poor for them to be controlled by one entity or by entities that are as strongly-networkable as citizens are.
+Via REMS you can tell that they are not vehicles containing biological organisms,
+so they are likely to be directly remotely-controlled by biological organisms.
 
 They are co-operating with humans but are 
 
