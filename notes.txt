@@ -52,13 +52,15 @@ Shewson -- protgonist #2
 * Some parts of mind act as "voices" due to misconfiguration
   is unusual for a feral due to relationship with human
     but not *that* unususal (234/235)
+  Can talk a bit (200)
 Mr Jones -- old
   size: 63, 103, 103
 
 "the war"
+culling (219)
 Bit of plane tastes all tingly: http://www.mspaintadventures.com/phpBB3/viewtopic.php?p=648131#p648131
 
-Ares (i.e. planet Mars) is female, whatever they call Venus, it is male.
+Ares/Aresians (i.e. planet Mars) is female, Aphrodit/Aphroditan (Venus) is male.
   The colours are... sexually apppropriate  :-|
 
 --
@@ -253,13 +255,6 @@ Ram robot by mistake.
 >Tkhlpzyv: initiate rescue mission
 Ship AI> Get hijacked.
 Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
-Sudden upwards thrust?
-
----
-
-what's with these robots?  can you analyse their intentions or whoever's behind them?
-human being carried by a robot: assess the situation
-(ditto and something about cackling evilly)
 
 ---
 ---
@@ -292,10 +287,21 @@ What else does Tk do?
     molecular computation?
   something with junk?
   do that instead of searching?
+  Is being boring a crime?
 Tk: be misc computational node?
 Help Vcypcsua
   A subject corners itself (need a word for this)
+    hang on that's more of a teacher's job isn't it?
   reveal feral seeding
+    researching mechanisms to avoid cornering
+  Decide on the study:repair ratio of subjects
+    repair produces interesting individuals
+    study produces innovation
+    also experiment on non-into-corner-painting mechanisms
+      aha! conflict of goals of the exercise!!!!!!
+What did I say about Tk's origin anyway?
+  could it cause Tk to be more emotional?
+  Could be a good reason to put Tk on the job
 Tk: Make a Patrick Stewart speech.
 
 Shewson as hostage?
@@ -310,6 +316,20 @@ not zero gravity, *low* (light alt-Earth)
 * no personal inter-su comms
 excess broth-cooks
 
+teaching
+are humans considered a distraction to the job?  Does Tk fight them or try to co-operate?
+  Heck think about them at all
+Jz views Sh as a burden?
+  Tries teaching?
+  Time for language stuff? (219)
+Think about own (in)capabilities: what don't you know?
+look back on what has happened
+time to consider and consolidate learnings
+  performance review for Jzaprvlt
+argh that will all require so many words
+
+Can Shewson talk or not?
+
 ---
 ---
 
@@ -320,27 +340,6 @@ excess broth-cooks
 Vc: You were not available to talk to when I discovered this, and were later available for too short a time for me to contact you.
 
 ---
-
-[[ what's with these robots?  can you analyse their intentions or whoever's behind them? ]]
-
-You search for knowlege of any assets that are like these robots, but find nothing;
-they are not part of your civilisation as far as you can tell.
-They cannot be testing Jzaprvlt's capability to respond to a situation of this kind
-as they would have stopped now that Jz is overcome.
-(It could be a test of your response to this situation,
-but that just means you should act as if it were real.)
-
-
-The robots seem to be using RFI-based propulsion,
-but the one that picked up the knife did so by grasping it with a hand,
-implying that they do not have such tight-focus RFI abilities as you do.
-They have seen that Jzaprvlt is able to pick up small objects,
-so they could want to understand that ability and have therefore taken Jz.
-
-The reaction times of the individual units and the positional co-ordination between them
-is too poor for them to be controlled by one entity or by entities that are as strongly-networkable as citizens are.
-Via REMS you can tell that they are not vehicles containing biological organisms,
-so they are likely to be directly remotely-controlled by biological organisms.
 
 They are co-operating with humans but are 
 
