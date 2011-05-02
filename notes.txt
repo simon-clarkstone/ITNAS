@@ -255,6 +255,7 @@ Ram robot by mistake.
 >Tkhlpzyv: initiate rescue mission
 Ship AI> Get hijacked.
 Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
+>Talk to him. Make sure he's okay.
 
 ---
 ---
@@ -312,8 +313,9 @@ maybe it is an arena after all?
 not zero gravity, *low* (light alt-Earth)
   hence the robots for Su-4-7
 * enough RFI focus for levitation but not for manipulation
+  How do they do the gravity then?  *do* they?
 * remote controlled by nats
-* no personal inter-su comms
+* no personal inter-su comms?
 excess broth-cooks
 
 teaching
