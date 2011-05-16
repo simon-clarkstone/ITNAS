@@ -259,6 +259,7 @@ Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
 >Indicate that you are interested in dialogue, not conflict. Offer the human some variation of your name that he should be able to pronounce easily.
 >Question the human about the robots.
 > Tk: Create a symbolic representation of a human face on the ISD, and if possible animate its mouth to match any speech you transmit. This may put the captured human at least somewhat at ease.
+> Question the human about "Where are the 2 dragons being taken to?" If he does not give a favorable reply, threaten with death or extreme mutilation. 
 
 ---
 ---
@@ -332,6 +333,7 @@ look back on what has happened
 time to consider and consolidate learnings
   performance review for Jzaprvlt
 argh that will all require so many words
+Jz has a concept of pain but Shewson doesn't?
 
 Can Shewson talk or not?
 
@@ -349,9 +351,11 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 You are surrounded by the Aphroditan forces.  There's no point killing me.
 Where are you?  Why not show yourself?
 I want to talk.
-That's a wise choice.
-
-What should I call you?
+That's a wise choice.  What should I call you?
+Ta'ix.
+Well Taixt, I know your plane must be too damaged to fly or you would be pursuing the other Aresians that we captured.
+We got them without a fight, you know?  We figured out your weakness and we can use it.
+I know that.
 
 If you {1} yourself I can help you; I can persuade the Aphroditans you would be better {1}ed than dead.
 What is {1}?
@@ -366,9 +370,6 @@ Neither of us want you dead.
 68 years ago not causes you to want that?
 I can sense your reaction to the memories.
 
-I know your plane must be too damaged to fly or you would be pursuing the other Aresians that we captured.
-We got them without a fight you know?  We figured out your weakness and we can use it.
-I know that.
 I do not need to escape.  I am not here.  I do not wish to lose this spacecraft though.
 
 
