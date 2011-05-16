@@ -351,28 +351,32 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 You are surrounded by the Aphroditan forces.  There's no point killing me.
 Where are you?  Why not show yourself?
 I want to talk.
-That's a wise choice.  What should I call you?
+That's a wise choice.  Do you have a name?  What should I call you?
 Ta'ix.
 Well Ta'ix, I know your plane must be too damaged to fly or you would be pursuing the other Aresians that we captured.
 We got them without a fight, you know?  We figured out your weakness and we can use it.
-I know that.  The effect is analogous to temporary deafness.
-
+I know that.  If the power was not too strong then once they regain consciousness the effect will be temporary loss of a sense, analogous to temporary deafness.
 If you {1} yourself I can help you; I can persuade the Aphroditans you would be better {1}ed than dead.
 What is {1}?
 You don't fight.  You allow us to remove the lumps from your forehead and wrists and so on so you can't attack us.
 No.
-
-You don't have to die for this.  You can choose to live.
-
-You don't have to follow your orders.
-
 Neither of us want you dead.
 68 years ago not causes you to want that?
 I can sense your reaction to the memories.
+
+You were soon gain improved weaponry and maybe we later needed to destroy you, so we had to regress your capabilities precautionarily.
+We have changed our strategy becasue of study of humans for decades.
+
 How long have the Aphroditans been your allies?
+
 Already you allow it carrying you, because they promise to defend you against us.
 
 What are these Aphroditans?
+
+Why do you think you must die for your orders.  You can choose to live.
+I am not being ordered.
+
+
 
 I do not need to escape.  I am not here.  I do not wish to lose this spacecraft though.
 
