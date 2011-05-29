@@ -7867,5 +7867,21 @@
          d="m 85,210 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
          transform="translate(-80,110)" />
     </g>
+    <g
+       id="g5844">
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5817"
+         d="m 1005,1435 5,5 0,10 -35,0 -5,-5 0,-10 10,0 0,-5 15,0 5,5 z"
+         style="color:#000000;fill:none;stroke:#ffff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:none;stroke:#ffff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5859"
+         width="40"
+         height="5"
+         x="950"
+         y="1425" />
+    </g>
   </g>
 </svg>
