@@ -347,12 +347,51 @@ Can Shewson talk or not?
 
 Vc: You were not available to talk to when I discovered this, and were later available for too short a time for me to contact you.
 
+---
+
+Meanwhile you will try talking to the robot with sound so that you can set up a better form of communication.
+
+Tk: I want the Aphroditan's attention to radio.
+Da: Selek, you are not to have a secret conversation with her.
+Da: We agreed that we would negotiate the surrender as a group.
+Se: Yeah, but now we know she can't surrender because she's somewhere else.
+Se: And it turns out that her intentions were peaceful in the first place.
+Da: We only have her word for that.
+Da: And she only said that after the plane was shot down.
+Da: Which [i]you[/i] chose to do, because you thought it posed enough of a threat.
+Se: Stop trying to slip yourself into the middle of this deal.
+Se: You can't even see half their tech, never mind reverse-engineer it.
+Se: And we've still got the prisoners, so we'll be negotiating their release if you don't mind.
+
+The voice sounds like it is being pronounced physically into a microphone to be sent to a speaker here.
+
+Tk: To make more-convenient negotiations, I give carriable access to me.
+
+{pic 342}
 
 
+agreement hu-Aph:
+humans get aid
+humans get some tech?
+Aphroditans get tech
+Aphroditans do defending
+Aphroditans get prisoners  <-- ??
+
+agreement Aph-Ki:
+Aph release prisoners
+Ki give tech (no self-destruct)
+Ki give documentation
+
+Hu-Ki:
+Ki tell truth
+humans stop hating them
 
 
-
-
+unsaid things:
+not from mars
+not female
+not both theirs
+dumping-ground
 
 
 
