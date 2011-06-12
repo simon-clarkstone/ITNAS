@@ -259,7 +259,9 @@ Ship AI> Get hijacked.
 Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
 >Talk to him. Make sure he's okay.
 > Tk: Create a symbolic representation of a human face on the ISD, and if possible animate its mouth to match any speech you transmit. This may put the captured human at least somewhat at ease.
+-P28
 > Question the human about "Where are the 2 dragons being taken to?" If he does not give a favorable reply, threaten with death or extreme mutilation. 
+I noticed that the numerous components available to the other two could probably be linked with the solar power supply to the sensors, and hopefully from there to one of the characters. Might be missing some critical detail that makes it impossible, and/or the broken computer bit might fit in there somewhere, if it is functional in any way. Perhaps you can access useful data off it if there is any and it isn't *too* broken. Also, the quality of "surgery" that appears to have been applied implies a more advanced group of beings. And high suspicions of memory removal. (reading through the most recent page(s? depends on your posts per page setting) only confirmed/reinforced my theories/suspicions)
 
 ---
 ---
@@ -349,25 +351,7 @@ Vc: You were not available to talk to when I discovered this, and were later ava
 
 ---
 
-Meanwhile you will try talking to the robot with sound so that you can set up a better form of communication.
-
-Tk: I want the Aphroditan's attention to radio.
-Da: Selek, you are not to have a secret conversation with her.
-Da: We agreed that we would negotiate the surrender as a group.
-Se: Yeah, but now we know she can't surrender because she's somewhere else.
-Se: And it turns out that her intentions were peaceful in the first place.
-Da: We only have her word for that.
-Da: And she only said that after the plane was shot down.
-Da: Which [i]you[/i] chose to do, because you thought it posed enough of a threat.
-Se: Stop trying to slip yourself into the middle of this deal.
-Se: You can't even see half their tech, never mind reverse-engineer it.
-Se: And we've still got the prisoners, so we'll be negotiating their release if you don't mind.
-
-The voice sounds like it is being pronounced physically into a microphone to be sent to a speaker here.
-
-Tk: To make more-convenient negotiations, I give carriable access to me.
-
-{pic 342}
+The large craft that Jzaprvlt and LN-4-7-22 have been taken into ascends northward once again.
 
 
 agreement hu-Aph:
