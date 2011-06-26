@@ -65,6 +65,9 @@ Bit of plane tastes all tingly: http://www.mspaintadventures.com/phpBB3/viewtopi
 Ares/Aresians (i.e. planet Mars) is female, Aphrodit/Aphroditan (Venus) is male.
   The colours are... sexually apppropriate  :-|
 
+Selek (orig)
+Khalt (lying next to Selek)
+
 --
 
 Su-x8-5
@@ -262,6 +265,8 @@ Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
 -P28
 > Question the human about "Where are the 2 dragons being taken to?" If he does not give a favorable reply, threaten with death or extreme mutilation. 
 I noticed that the numerous components available to the other two could probably be linked with the solar power supply to the sensors, and hopefully from there to one of the characters. Might be missing some critical detail that makes it impossible, and/or the broken computer bit might fit in there somewhere, if it is functional in any way. Perhaps you can access useful data off it if there is any and it isn't *too* broken. Also, the quality of "surgery" that appears to have been applied implies a more advanced group of beings. And high suspicions of memory removal. (reading through the most recent page(s? depends on your posts per page setting) only confirmed/reinforced my theories/suspicions)
+>AbsurdityPhone
+>Communication Flower
 
 ---
 ---
@@ -376,21 +381,15 @@ dumping-ground
 
 ---
 
-{343}
 
-The large craft that Jzaprvlt and LN-4-7-22 have been taken into ascends northward once again.  You tell the drones that are still above to keep monitoring it.
 
-[QUOTE=Isoraqathedh;5200170]Enhanced Long Distance Audio-Video Relay System.
 
-ELDAVRS.[/QUOTE]
-[quote]Tk: Where will you take you and the eldavrs for negotiations?
-Se: Our base, but it's not far.
-Se: In fact we're right on top of it.
-Tk: [/quote]
 
-You have located a solar collecting satellite that ...
 
----
+
+
+
+
 
 
 
