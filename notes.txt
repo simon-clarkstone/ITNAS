@@ -264,7 +264,6 @@ Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
 > Tk: Create a symbolic representation of a human face on the ISD, and if possible animate its mouth to match any speech you transmit. This may put the captured human at least somewhat at ease.
 -P28
 > Question the human about "Where are the 2 dragons being taken to?" If he does not give a favorable reply, threaten with death or extreme mutilation. 
-I noticed that the numerous components available to the other two could probably be linked with the solar power supply to the sensors, and hopefully from there to one of the characters. Might be missing some critical detail that makes it impossible, and/or the broken computer bit might fit in there somewhere, if it is functional in any way. Perhaps you can access useful data off it if there is any and it isn't *too* broken. Also, the quality of "surgery" that appears to have been applied implies a more advanced group of beings. And high suspicions of memory removal. (reading through the most recent page(s? depends on your posts per page setting) only confirmed/reinforced my theories/suspicions)
 >AbsurdityPhone
 >Communication Flower
 
@@ -314,6 +313,8 @@ Tk: Make a Patrick Stewart speech.
 
 Shewson as hostage?
 iterations?  Fourth maybe?
+  Pqeynkqo's theorem: cannot self-install perfect memory-blocker
+  (e.g. tmp-VMS leakage)
 Sh banging head on wall?
 (searchers) find dead Jz?
 maybe it is an arena after all?
