@@ -228,7 +228,6 @@ once you are no longer bound, examine the wobbly floor tile.
 >If you can cut or break the rope on the next hatch as you run past it, do so.
 now flee.
 > Nudge whoever's nudging you back to get it to stop.
-both: probably a good idea to get out of there now, you never know when the humans will be back.
 -P23
 Shewson: Suddenly realize you miss timmy, fill the void with your female friend :3
 J: Examine tunnel.
@@ -333,6 +332,7 @@ small flying-around thing
 people annoyed as Dahnel Jones
 hacking
 
+wall markings in newly-lit room?
 teaching
 Jz views Sh as a burden?
   Tries teaching?
@@ -341,6 +341,7 @@ Think about own (in)capabilities: what don't you know?
 look back on what has happened
 time to consider and consolidate learnings
   performance review for Jzaprvlt
+  RECAP!
 argh that will all require so many words
 Jz has a concept of pain but Shewson doesn't?
 
