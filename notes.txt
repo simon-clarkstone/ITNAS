@@ -246,7 +246,6 @@ POV change> LN-4-7-22> Continue forward.
 -P25
 > Jz: Since it is unlikely that you could fit back through that gap again, go forwards instead.
 >Jz: just make sure shewson doesn't hurt himself.
-Mr. Jones: Give convenient exposition about new allies.
 Thread: Moan like a zombie and rise from the dead.
 >Shewson: accidentally find an exit 
 Shewson: Comically be in the way. 
@@ -350,6 +349,10 @@ argh that will all require so many words
 Jz has a concept of pain but Shewson doesn't?
 
 Can Shewson talk or not?
+  Yes! (200)
+Aphroditans found under small building?
+Also checking finds that some citizens have been modified?
+  e.g. Tk?
 
 ---
 ---
@@ -387,6 +390,45 @@ dumping-ground
 
 ---
 
+You decide that this would be a good time to reflect
+on what has happened over the hours since your last proper rest
+and how well you have done. 
+Such introspection is vital to spotting of systematic weaknesses.
+
+You intended to travel from Subuniverse(0,0) to Su-4-7
+to retrieve a feral indivial known as LN-4-7-22.
+You rose, picked up your tools,
+and arranged to meet up with Jzaprvlt over in Su-4-7.
+As you set out you discussed the translation tool with Vcypcsua
+and found out that Jz had been making some poorly-planned changes to it without telling you.
+
+You started flying in the direction of the spaceport,
+but on your way something
+(quite possibly some Aphroditans, though you didn't know of them at the time)
+hit you with an EMP,
+destroying your radio capabilities and knocking you unconscious.
+Upon waking you were too tired to take off,
+so you sought shelter in a small building nearby.
+It had (at least) two functions:
+an anchor-point for the scent-structure at the spaceport,
+and a container for a project kept secret to avoid it being slowed down by over-resourcing:
+a supercomputer attached to a helmet capable of direct concept injection into the mind.
+
+You re-fitted the one block of computronium that had been removed from a rack of the supercomputer,
+then donned the helmet.
+It paralysed you by design,
+and after struggling with the interface
+you resorted to cutting power to most of the building in order to disconnect.
+The power-off also removed a barrier hence allowing you into the next room,
+where you mis-adjusted the controls for the cooling systems of the anchor-point
+and were able to get internet access to tell Jzaprvlt what was going on.
+The powering-off and cooling system misconfiguration
+indirectly delayed Japrvlt's upward journey from the equivalent spaceport over in Su-x8-5.
+
+There were some lifts and dumbwaiters leading to/from below the building,
+but their power cables were damaged and you never found out what was down there.
+You flew onward to the spaceport,
+where you had brain surgery performed 
 
 
 
