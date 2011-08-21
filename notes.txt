@@ -396,7 +396,10 @@ and how well you have done.
 Such introspection is vital to spotting of systematic weaknesses.
 
 You intended to travel from Subuniverse(0,0) to Su-4-7
-to retrieve a feral indivial known as LN-4-7-22.
+to retrieve a feral indivial known as LN-4-7-22,
+whom had been placed there 8 years ago
+to test new anti-lockout systems incorporated into it,
+as well as for general study of the effects on development.
 You rose, picked up your tools,
 and arranged to meet up with Jzaprvlt over in Su-4-7.
 As you set out you discussed the translation tool with Vcypcsua
@@ -410,7 +413,7 @@ destroying your radio capabilities and knocking you unconscious.
 Upon waking you were too tired to take off,
 so you sought shelter in a small building nearby.
 It had (at least) two functions:
-an anchor-point for the scent-structure at the spaceport,
+an anchor-point for the ascent-structure at the spaceport you were heading to,
 and a container for a project kept secret to avoid it being slowed down by over-resourcing:
 a supercomputer attached to a helmet capable of direct concept injection into the mind.
 
@@ -419,17 +422,32 @@ then donned the helmet.
 It paralysed you by design,
 and after struggling with the interface
 you resorted to cutting power to most of the building in order to disconnect.
-The power-off also removed a barrier hence allowing you into the next room,
+The power-off also removed a barrier doorway,
+thus allowing you into the next room,
 where you mis-adjusted the controls for the cooling systems of the anchor-point
 and were able to get internet access to tell Jzaprvlt what was going on.
 The powering-off and cooling system misconfiguration
-indirectly delayed Japrvlt's upward journey from the equivalent spaceport over in Su-x8-5.
+indirectly delayed Jz's upward journey from the equivalent spaceport over in Su-x8-5.
 
 There were some lifts and dumbwaiters leading to/from below the building,
 but their power cables were damaged and you never found out what was down there.
 You flew onward to the spaceport,
-where you had brain surgery performed 
+where you had surgery performed by Ywsaznxd to help your recovery
+(which will take days even with that help).
 
+Jzaprvlt had decided to go over to Su-4-7 without you.
+After locating the subject, Jz found that it was friends with a young human,
+but did not consider the complex possiblity that this fact had been concealed from the rest of the humans
+and that they would be afraid of and/or aggressive towards the subject.
+The subject and the young human had noticed the spacecraft descending,
+and Jz arranged that they would encounter it and enter.
+From monitoring them, Jzaprvlt was able to tell something about
+how the subject's mind had developed;
+some parts of it are almost disconnected from the parts that have control of the body.
+This is a success; such division is a safety mechanism that stoped
+the subject from psychomodifying itself into a state that it could not escape
+as normal configs would do 54/60 of the time without professional supervision
+(and about 7/60 of the time with professional supervision).
 
 
 
