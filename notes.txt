@@ -403,13 +403,15 @@ Such introspection is vital to spotting of systematic weaknesses.
 
 You intended to travel from Subuniverse(0,0) to Su-4-7
 to retrieve a feral indivial known as LN-4-7-22,
-whom had been placed there 8 years ago
+who had been placed there 8 years ago
 to test new anti-lockout systems incorporated into it,
 as well as for general study of the effects on development.
 You rose, picked up your tools,
 and arranged to meet up with Jzaprvlt over in Su-4-7.
-As you set out you discussed the translation tool with Vcypcsua
+As you set out you discussed some translation code with Vcypcsua
 and found out that Jz had been making some poorly-planned changes to it without telling you.
+Vcypcsua had been looking at the code to help with
+Vc's work on subjects that you had previous retrieved, especially LN-4-7-18.
 
 You started flying in the direction of the spaceport,
 but on your way something
@@ -417,7 +419,7 @@ but on your way something
 hit you with an EMP,
 destroying your radio capabilities and knocking you unconscious.
 Upon waking you were too tired to take off,
-so you sought shelter in a small building nearby.
+so you headed towards a small building nearby.
 You eventually learnt it had (at least) two functions:
 an anchor-point for the ascent-structure at the spaceport you were heading to,
 and a container for a project kept secret to avoid it being slowed down by over-resourcing:
@@ -436,7 +438,7 @@ The power-off also removed a barrier in a doorway,
 thus allowing you into the next room,
 where you mis-adjusted the controls for the cooling systems of the anchor-point
 and were able to get internet access to tell Jzaprvlt what was going on.
-[i]Again not something you shoul dhave been fiddling with.[/i]
+[i]Again not something you should have been fiddling with.[/i]
 The powering-off and cooling system misconfiguration
 indirectly delayed Jz's upward journey from the equivalent spaceport over in Su-x8-5.
 
@@ -445,7 +447,8 @@ but their power cables were damaged and you never found out what was down there.
 You flew onward to the spaceport,
 where you had surgery performed by Ywsaznxd to help your recovery
 (which will take days even with that help).
-(Ywsaznxd is watching you as you write this; you wonder why.)
+
+(You realise that Ywsaznxd is watching you as you write this; you wonder why.)
 
 Jzaprvlt had decided to go over to Su-4-7 without you.
 After locating LN-4-7-22, Jz found that it was friends with a young human,
@@ -463,17 +466,19 @@ From monitoring them, Jzaprvlt was able to tell something about
 how the subject's mind had developed:
 some parts of it are almost disconnected from the parts that have control of the body.
 This is a success; such division is a safety mechanism that stopped
-the subject from psychomodifying itself at (around age 4)
+the subject from psychomodifying itself (at around age 4)
 into a state which it could not escape
 as normal configs will do 56/60 of the time without supervision
 (and about 7/60 of the time even if supervised).
+Also it has imitated some human properties such as sleep,
+which will be worth studying even if less immediately useful.
 
-Upon leaving the spacecraft, LN-4-7-22 took a tool,
+Upon leaving the spacecraft, LN-4-7-22 took a tool with it,
 and accidentally used it to render the human unconscious.
 While trying to take the young human back to safety,
 the subject encountered Jzaprvlt,
-who induced strong attraction sensations into its mind.
-The effects are strong enough that they will cause problems later when anaylsing the subject;
+who induced strong attraction sensations into its mind to help control it.
+The effects were strong enough that they will cause problems later when anaylsing the subject;
 Jzaprvlt will have to be present continuously at first.
 [i]That effect is certainly very skillful, but it really wasn't the right solution.
 Actually concentrating on the input that Jz was getting from the sensors
@@ -481,50 +486,53 @@ could have have stopped what happened next.[/i]
 
 Jzaprvlt and the subject encountered Dahnel,
 thereby confirming Da's suspicions that you were Aresians
-(innacurate, because it lterally means that you are from "Ares" i.e. Mars,
-but that is what your species were considered to be by these humans last time).
+(the name is inaccurate, because it literally means that you are from Mars,
+but that is what your species were considered to be by these humans
+back when you first attacked them 68 years ago).
 The young human had recovered,
 and along with Jzaprvlt managed to dissuade Dahnel from violence
 long enough that Jz and the subject could get away.
-[i]Which was admittedly better than in Jz weren't there,
-but it wouldn't have happened at all if Jz hadn't landed in the first place.
+[i]Which was admittedly better than if Jz weren't there,
+but the situation wouldn't have happened at all if Jz hadn't ben there in the first place.
 You really ought to have forbade Jzaprvlt from even landing
 while you were in surgery.[/i]
 
 [i]And then follows a demonstration of even more skill than above,
-and put to an even worse solution,
+and put to an even worse use,
 both beyond what you are capable of in opposite ways.[/i]
-Jzaprvlt decided to create a new valuation and motivational system within Jz,
-who took the subject many kilometers north,
+Jzaprvlt decided to create a new Valuation and Motivational System within Jz.
+It took the subject many kilometers north,
 where they stayed in some woodland once night arrived.
-It was only then that Jz's main VMS resumed control and contacted you,
-by which point LN-4-7-22 could neither be safely be separated from Jz,
-nor be taken fully away from its young human.
+It was only then that Jz's main VMS resumed control and contacted you.
+Vcypcsua did not think that LN-4-7-22 could be taken away from this subuniverse safely;
+it would have to be persuaded that it could never see the young human again.
 
 As Jzaprvlt was practicing human phonemes for use by Jz and Jz's new VMS,
 human archers approached from the south
 (you now know they were guided there by the Aphroditans)
-while an Aphroditan EMP unit approached from the north.
-(That name is also inaccurate as it literally means they are from Venus,
+while an Aphroditan remotely-operated unit armed with an EMP gun approached from the north.
+("Aphroditan" is also inaccurate as it literally means they are from Venus,
 but you would have noticed by now if they were.)
 You tried to rescue Jzaprvlt with the the spacecraft,
-but it was shot down by the Aphroditans, who then took Jz away.
+but it was shot down by the Aphroditans, who then took Jz and LN-4-7-22 away.
 
-You captured Dahnel in the spacecraft, learnt Da's name,
+You captured Dahnel Jones in the spacecraft, learnt Da's name,
 then talked to Da and set up the three-way negotiations that you just had.
-You put together the eldavrs as portable communication with you.
-It contains internet, sensors, sound and image emission, and a fabber.
+You put together the "eldavrs" as portable communication with you.
+It has internet, sensors, sound and image emission, and a fabber.
 It and the spacecraft now have self destruct capability:
 the one by its own means,
-the other by a solar collecting satellite being ready to deliver a power beam to it.
+the other by a solar collecting satellite being ready to deliver a power beam towards it.
 
 ---
 
 You find, as you have found before,
 that Jzaprvlt all too often does very clever things
 without always putting them to the right use.
-(More than you do.)
-The real difference this time was that Jz was unrestrained.
+(To a greater extent than you do.)
+What made a real difference compared to previous expeditions was that Jz was unrestrained
+because Jz was disconnected from you.
+
 You begin to construct the balancing tweaks you want to make to you and Jz in the near future.
 
 
