@@ -8128,5 +8128,44 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#ff900d;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4738-1"
+       sodipodi:cx="220"
+       sodipodi:cy="345"
+       sodipodi:rx="10"
+       sodipodi:ry="10"
+       d="m 220,355 a 10,10 0 1 1 0,-20 l 0,10 z"
+       sodipodi:start="1.5707963"
+       sodipodi:end="4.712389"
+       transform="translate(370,1405)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5896"
+       y="1760"
+       x="600"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan5898"
+         y="1760"
+         x="600"
+         sodipodi:role="line">lubricant tin</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#ff4000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 585,1767.5 -5,2.5 0,5 5,2.5 5,-2.5 0,-5 z"
+       id="path4792"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="595"
+       y="1780"
+       id="text6714"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="595"
+         y="1780"
+         id="tspan6716">door handle</tspan></text>
   </g>
 </svg>
