@@ -333,6 +333,8 @@ Gaia get involved
 small flying-around thing
 people annoyed as Dahnel Jones
 hacking
+flat-pack robots don't have RFI motivators included (360); do robots have them?!
+skip arm sensor hookup (360)
 
 wall markings in newly-lit room?
 teaching
