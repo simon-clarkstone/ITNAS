@@ -8217,5 +8217,38 @@
          y="1802"
          x="646"
          sodipodi:role="line">explorer</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#d8bc00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 650,1860 0,-40 -10,0 -30,10 0,20 30,10 z"
+       id="path4061"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="656"
+       y="1845"
+       id="text5901"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="656"
+         y="1845"
+         id="tspan5905">Aphroditan chair</tspan></text>
+    <path
+       id="path3748-1"
+       style="fill:none;stroke:#cccc55;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 640,1880 10,-5 -10,-5 z m 10,-10 -5,5 5,5"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5995"
+       y="1880"
+       x="650"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan5997"
+         y="1880"
+         x="650"
+         sodipodi:role="line">crustacean</tspan></text>
   </g>
 </svg>
