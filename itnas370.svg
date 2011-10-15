@@ -18,7 +18,7 @@
    sodipodi:docname="itnas370.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   inkscape:export-filename="itnas368.png">
+   inkscape:export-filename="itnas370.png">
   <defs
      id="defs4">
     <marker
@@ -88,12 +88,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
+     inkscape:zoom="1"
      inkscape:cx="233.44295"
      inkscape:cy="150.67015"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-nodes="true"
      inkscape:snap-global="false"
      inkscape:snap-grids="true"
@@ -428,7 +428,7 @@
          sodipodi:cy="105"
          sodipodi:rx="15"
          sodipodi:ry="15"
-         d="m 420,105 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+         d="m 420,105 c 0,8.28427 -6.71573,15 -15,15 -8.28427,0 -15,-6.71573 -15,-15 0,-8.284271 6.71573,-15 15,-15 8.28427,0 15,6.715729 15,15 z"
          transform="translate(0,732.36218)" />
     </g>
     <rect
@@ -622,22 +622,6 @@
          d="m 200,165 10,-10 m -35,-5 10,-10 m 5,25 20,-20 m -30,20 25,-25 m -30,20 20,-20"
          style="color:#000000;fill:none;stroke:#006680;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path5990"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g6844">
-      <rect
-         style="color:#000000;fill:none;stroke:#006680;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect6846"
-         width="25"
-         height="35"
-         x="-165"
-         y="175"
-         transform="matrix(0,-1,1,0,0,0)" />
-      <path
-         id="path6848"
-         style="color:#000000;fill:none;stroke:#006680;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 200,165 10,-10 m -35,-5 10,-10 m 5,25 20,-20 m -30,20 25,-25 m -30,20 20,-20"
          inkscape:connector-curvature="0" />
     </g>
     <g
