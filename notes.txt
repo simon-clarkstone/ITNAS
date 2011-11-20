@@ -266,6 +266,8 @@ Tkhlpzyv> Keep following the ships movement, then TO THE RESCUE!
 Look at what's in the other side first.
 >tell your friend
 Gtfo.
+> Jump to the left.
+> Step to the right.
 
 ---
 ---
