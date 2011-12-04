@@ -268,6 +268,7 @@ Look at what's in the other side first.
 Gtfo.
 > Jump to the left.
 > Step to the right.
+> Attempt to open the remaining closed door in the larger room.
 
 ---
 ---
@@ -351,6 +352,8 @@ Can Shewson talk or not?
 Aphroditans found under small building?
 Also checking finds that some citizens have been modified?
   e.g. Tk?
+  Put up a "ignore this" sign for Ywsaznxd?  Succ/fail?
+  What to do with Tk.
 Shewson drag Jzaprvlt away from comms+sensors
 
 ---
