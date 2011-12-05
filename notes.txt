@@ -268,7 +268,6 @@ Look at what's in the other side first.
 Gtfo.
 > Jump to the left.
 > Step to the right.
-> Attempt to open the remaining closed door in the larger room.
 
 ---
 ---
@@ -330,6 +329,7 @@ not zero gravity, *low* (light alt-Earth)
 * remote controlled by nats
 * no personal inter-su comms?
 squiddly things?!
+birds?
 excess broth-cooks
 
 Gaia get involved
