@@ -8420,5 +8420,21 @@
          y="1880"
          x="815"
          sodipodi:role="line">paper</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#d35f5f;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 792.5,1716.9497 27.5,-2"
+       id="path3057-5"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="827.87866"
+       y="1721.4142"
+       id="text7767"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7769"
+         sodipodi:role="line"
+         x="827.87866"
+         y="1721.4142">pseudometal</tspan></text>
   </g>
 </svg>
