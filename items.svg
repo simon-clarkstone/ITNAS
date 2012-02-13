@@ -33,6 +33,16 @@
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(1.1) rotate(180) translate(1,0)" />
     </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4054">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4056" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8436,5 +8446,49 @@
          sodipodi:role="line"
          x="827.87866"
          y="1721.4142">pseudometal</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#ffcc00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 803.8655,1757.958 c 0.24022,3.8398 0.70339,14.6458 -0.42323,15.2317 -4.44844,2.3133 -3.10178,10.0346 2.57763,9.761 5.46769,0.5721 6.4262,-6.9702 3.8857,-8.7552 -1.36615,-0.9598 0.14428,-11.0199 0.0944,-14.1955"
+       id="path4023-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#ffcc00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4054);enable-background:accumulate"
+       id="path3998"
+       sodipodi:cx="362.5"
+       sodipodi:cy="299.5"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 367.5,299.5 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="matrix(0.5,0,0,0.5,624.89273,1627.93)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8724"
+       y="1775"
+       x="815"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan8726"
+         y="1775"
+         x="815"
+         sodipodi:role="line">pipe up+out of page</tspan></text>
+    <path
+       style="fill:none;stroke:#006680;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;color:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 824,1796 c 16.89865,-8.924 5,12 36,-8"
+       id="path6054"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="862"
+       y="1800"
+       id="text6056"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="862"
+         y="1800"
+         id="tspan6058">power cable</tspan></text>
   </g>
 </svg>
