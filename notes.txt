@@ -276,6 +276,11 @@ Gtfo.
 > Shewson: Try to feel better.
 > Shewson: Remove snout from wall socket before you get electrecuted to death.
 -P31
+> Can you tell where LN-4-7-22 went?
+> When you say 'Undamaged' power cables, what exactly do you mean? Is there power in those?
+> Do you know any materials or technology that would be able to generate the properties of the SRHN?
+Let's start in order. Press the upper-left button and see what it does.
+Press the 2 buttons which are alike.
 
 ** Use SRHN somehow **
 
