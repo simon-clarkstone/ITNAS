@@ -276,11 +276,8 @@ Gtfo.
 > Shewson: Try to feel better.
 > Shewson: Remove snout from wall socket before you get electrecuted to death.
 -P31
-> Can you tell where LN-4-7-22 went?
 > When you say 'Undamaged' power cables, what exactly do you mean? Is there power in those?
 > Do you know any materials or technology that would be able to generate the properties of the SRHN?
-Let's start in order. Press the upper-left button and see what it does.
-Press the 2 buttons which are alike.
 
 ** Use SRHN somehow **
 
@@ -331,7 +328,7 @@ Tk: Make a Patrick Stewart speech.
 Shewson as hostage?
 iterations?  Fourth maybe?
   Pqeynkqo's theorem: cannot self-install perfect memory-blocker
-  (e.g. tmp-VMS leakage)
+  (e.g. tmp-VMS leakage (284))
   This time Tk knew a way to use the sensors to escape
 crypto compromise
 Sh banging head on wall?
@@ -375,6 +372,10 @@ Shewson drag Jzaprvlt away from comms+sensors
 Jz/Tk response to superior tech
 
 Need to find password somewhere (400)
+correct button operation; panel (400) onwards
+  to unlock: top-left, then correct 6-digit code (RHS); unlock is immediate
+  to lock: mid-left, then correct 6-digit code; lock is immediate
+  to change code: bottom-left, old code, (checked), hold bottom-left + new code
 
 ---
 ---
