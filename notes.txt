@@ -278,8 +278,8 @@ Gtfo.
 -P31
 > When you say 'Undamaged' power cables, what exactly do you mean? Is there power in those?
 > Do you know any materials or technology that would be able to generate the properties of the SRHN?
-
-** Use SRHN somehow **
+[[Assume the complex beep to be an error sound.]] Explore.
+-P32
 
 ---
 ---
@@ -376,6 +376,8 @@ correct button operation; panel (400) onwards
   to unlock: top-left, then correct 6-digit code (RHS); unlock is immediate
   to lock: mid-left, then correct 6-digit code; lock is immediate
   to change code: bottom-left, old code, (checked), hold bottom-left + new code
+
+** Use SRHN somehow **
 
 ---
 ---
