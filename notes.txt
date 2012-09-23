@@ -283,10 +283,6 @@ Gtfo.
 > Anything on it with similar symbols to those buttons? Maybe that will show us what they connect to.
 Enter those commands!
 Onwards!
-> Push the upper-left button, then enter the 0 5 0 3 4 5 code, then try pushing the middle-left button
->Go back to the controls. Push the top button on the left, then the middle button on the left, then the buttons on the right in this order: 0 5 0 3 4 5 (where the numbers 0 through 5 are matched up to the right-hand buttons as in the diagram above).
->If the above doesn't work, try it again but omitting the middle button on the left.
->If that still doesn't work, maybe the symbols on the paper don't read from right to left after all. In that case, try pushing the middle button on the left first, then the top button on the left, then the buttons on the right in the order 5 4 3 0 5 0.
 
 ---
 ---
