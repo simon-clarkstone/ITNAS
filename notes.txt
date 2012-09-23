@@ -280,7 +280,6 @@ Gtfo.
 > Do you know any materials or technology that would be able to generate the properties of the SRHN?
 [[Assume the complex beep to be an error sound.]] Explore.
 -P32
-> Anything on it with similar symbols to those buttons? Maybe that will show us what they connect to.
 Enter those commands!
 Onwards!
 
