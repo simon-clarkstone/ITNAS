@@ -281,6 +281,11 @@ Gtfo.
 [[Assume the complex beep to be an error sound.]] Explore.
 -P32
 Onwards!
+Check out the door.
+Jz: Before you go through the door, check out that passageway in the south wall between you and the panel, just to see where it leads.
+(Also, at some point it might be of interest to determine what's in the other parts of the fake structure you just escaped from -- specifically, the area where your human captors were in.)
+> Tk: Speculate. Is the switch more likely to have affected reality, or your explorer's perception equipment, or both? Consider the implications.
+> Jz: Speculate. Suppose that you are still on earth, and that your captors are using artificial-gravity generators (perhaps upside-down) to simulate Venus' gravity. Is this, to the best of your knowledge, a technically feasible scenario? Can you think of a reason they might do this?
 
 ---
 ---
@@ -338,12 +343,14 @@ maybe it is an arena after all?
 not zero gravity, *low* (light alt-Earth)
   no, alt-Venus
     does it have a magnetic field?  There is one near Jz+Sh.  How does intelligent life exist there anyway?
+    Why does Tk "find" they have wake-sleep cycle? (372)
   hence the robots for Su-4-7
     What about those footsteps Jz heard? (263)
 * enough RFI focus for levitation but not for manipulation
   How do they do the gravity then?  *do* they?
 * remote controlled by nats
 * no personal inter-su comms?
+typewritten? (409)
 squiddly things?!
 birds?
 beeps: good = 2:3, bad = "about 7:17 or 5:12" (402)
