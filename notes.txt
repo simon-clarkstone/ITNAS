@@ -280,7 +280,6 @@ Gtfo.
 > Do you know any materials or technology that would be able to generate the properties of the SRHN?
 [[Assume the complex beep to be an error sound.]] Explore.
 -P32
-Onwards!
 Check out the door.
 Jz: Before you go through the door, check out that passageway in the south wall between you and the panel, just to see where it leads.
 (Also, at some point it might be of interest to determine what's in the other parts of the fake structure you just escaped from -- specifically, the area where your human captors were in.)
