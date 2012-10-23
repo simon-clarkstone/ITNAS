@@ -386,6 +386,8 @@ correct button operation; panel (400) onwards
   to lock: mid-left, then correct 6-digit code; lock is immediate
   to change code: bottom-left, old code, (checked), hold bottom-left + new code
 
+high-grip substance might be smellable? (414)
+
 ** Use SRHN somehow **
 ** let's see this civilisation in action; react faster than the Aphroditans can believe **
 
