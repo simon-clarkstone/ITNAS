@@ -8507,5 +8507,72 @@
          y="1830"
          x="855"
          sodipodi:role="line">Aph rubber stuff</tspan></text>
+    <g
+       style="display:inline"
+       transform="translate(1011,1889)"
+       id="g3165">
+      <path
+         id="path3167"
+         style="color:#000000;fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M -87.66666,17.66666 -71,34.33334 m -20,-6.66668 16.66666,16.66668 M -81,51 -91,41 l 0,-20 10,-10 10,10"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m -51,51 0,-40 -10,10 0,20 10,10 10,-10 0,-20 -20,20"
+         id="path3169"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 890,1860 0,20 10,10 10,-10 0,-20"
+       style="fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3178" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       d="m 1050,1850 0,40 -10,-10 0,-20 10,-10 10,10"
+       style="fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3180" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       d="m 990,1850 0,40 m -10,-30 0,20 10,10 10,-10 0,-20"
+       style="fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3184" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       d="m 1030,1880 -20,0 m 20,-20 -20,0 m 10,-10 0,40"
+       style="fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3186" />
+    <path
+       id="path4621"
+       style="fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 930,1870 -10,10 10,10 10,-10 -10,-10 0,-20"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       d="m 960,1850 0,40 m 10,-10 -20,-20"
+       style="fill:none;stroke:#0000d4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path4623" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="920"
+       y="1960"
+       id="text4629"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="920"
+         y="1960"
+         id="tspan4631">012345</tspan><tspan
+         sodipodi:role="line"
+         x="920"
+         y="1990"
+         id="tspan4633">unlock</tspan></text>
   </g>
 </svg>
